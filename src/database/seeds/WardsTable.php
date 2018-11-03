@@ -6208,5 +6208,6376 @@ class WardsTable extends Seeder
 		] );
 
 		// -------------------------
+		Ward::create( [
+		'ward_id'=>'02290',
+		'name'=>'Bình An',
+		'type'=>'Xã',
+		'location'=>'22 26 31N, 105 09 27E',
+		'district_id'=>'073'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'02293',
+		'name'=>'Hồng Quang',
+		'type'=>'Xã',
+		'location'=>'22 23 24N, 105 06 26E',
+		'district_id'=>'073'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'02296',
+		'name'=>'Thổ Bình',
+		'type'=>'Xã',
+		'location'=>'22 22 55N, 105 11 40E',
+		'district_id'=>'073'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'02299',
+		'name'=>'Phúc Sơn',
+		'type'=>'Xã',
+		'location'=>'22 19 37N, 105 14 31E',
+		'district_id'=>'073'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'02302',
+		'name'=>'Minh Quang',
+		'type'=>'Xã',
+		'location'=>'22 20 47N, 105 09 41E',
+		'district_id'=>'073'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'02305',
+		'name'=>'Trung Hà',
+		'type'=>'Xã',
+		'location'=>'22 17 23N, 105 03 42E',
+		'district_id'=>'073'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'02308',
+		'name'=>'Tân Mỹ',
+		'type'=>'Xã',
+		'location'=>'22 16 41N, 105 10 50E',
+		'district_id'=>'073'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'02311',
+		'name'=>'Hà Lang',
+		'type'=>'Xã',
+		'location'=>'22 14 12N, 105 07 20E',
+		'district_id'=>'073'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'02314',
+		'name'=>'Hùng Mỹ',
+		'type'=>'Xã',
+		'location'=>'22 14 14N, 105 17 14E',
+		'district_id'=>'073'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'02317',
+		'name'=>'Yên Lập',
+		'type'=>'Xã',
+		'location'=>'22 13 25N, 105 22 59E',
+		'district_id'=>'073'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'02320',
+		'name'=>'Tân An',
+		'type'=>'Xã',
+		'location'=>'22 11 50N, 105 11 18E',
+		'district_id'=>'073'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'02323',
+		'name'=>'Bình Phú',
+		'type'=>'Xã',
+		'location'=>'22 11 00N, 105 25 41E',
+		'district_id'=>'073'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'02326',
+		'name'=>'Xuân Quang',
+		'type'=>'Xã',
+		'location'=>'22 11 03N, 105 16 37E',
+		'district_id'=>'073'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'02329',
+		'name'=>'Ngọc Hội',
+		'type'=>'Xã',
+		'location'=>'22 09 57N, 105 18 30E',
+		'district_id'=>'073'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'02332',
+		'name'=>'Phú Bình',
+		'type'=>'Xã',
+		'location'=>'22 09 16N, 105 21 39E',
+		'district_id'=>'073'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'02335',
+		'name'=>'Hòa Phú',
+		'type'=>'Xã',
+		'location'=>'22 07 57N, 105 10 04E',
+		'district_id'=>'073'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'02338',
+		'name'=>'Phúc Thịnh',
+		'type'=>'Xã',
+		'location'=>'22 09 21N, 105 13 38E',
+		'district_id'=>'073'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'02341',
+		'name'=>'Kiên Đài',
+		'type'=>'Xã',
+		'location'=>'22 06 51N, 105 26 20E',
+		'district_id'=>'073'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'02344',
+		'name'=>'Tân Thịnh',
+		'type'=>'Xã',
+		'location'=>'22 08 18N, 105 12 53E',
+		'district_id'=>'073'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'02347',
+		'name'=>'Trung Hòa',
+		'type'=>'Xã',
+		'location'=>'22 06 36N, 105 15 28E',
+		'district_id'=>'073'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'02350',
+		'name'=>'Kim Bình',
+		'type'=>'Xã',
+		'location'=>'22 05 21N, 105 19 59E',
+		'district_id'=>'073'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'02353',
+		'name'=>'Hòa An',
+		'type'=>'Xã',
+		'location'=>'22 05 36N, 105 14 46E',
+		'district_id'=>'073'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'02356',
+		'name'=>'Vinh Quang',
+		'type'=>'Xã',
+		'location'=>'22 05 40N, 105 17 39E',
+		'district_id'=>'073'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'02359',
+		'name'=>'Tri Phú',
+		'type'=>'Xã',
+		'location'=>'22 01 27N, 105 22 18E',
+		'district_id'=>'073'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'02362',
+		'name'=>'Nhân Lý',
+		'type'=>'Xã',
+		'location'=>'22 03 35N, 105 14 43E',
+		'district_id'=>'073'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'02365',
+		'name'=>'Yên Nguyên',
+		'type'=>'Xã',
+		'location'=>'22 03 19N, 105 10 22E',
+		'district_id'=>'073'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'02368',
+		'name'=>'Linh Phú',
+		'type'=>'Xã',
+		'location'=>'22 00 40N, 105 26 09E',
+		'district_id'=>'073'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'02371',
+		'name'=>'Bình Nhân',
+		'type'=>'Xã',
+		'location'=>'22 02 32N, 105 17 14E',
+		'district_id'=>'073'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'02374',
+		'name'=>'Tân Yên',
+		'type'=>'Thị Trấn',
+		'location'=>'22 02 28N, 104 57 50E',
+		'district_id'=>'074'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'02377',
+		'name'=>'Yên Thuận',
+		'type'=>'Xã',
+		'location'=>'22 17 47N, 104 56 57E',
+		'district_id'=>'074'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'02380',
+		'name'=>'Bạch Xa',
+		'type'=>'Xã',
+		'location'=>'22 14 58N, 104 55 21E',
+		'district_id'=>'074'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'02383',
+		'name'=>'Minh Khương',
+		'type'=>'Xã',
+		'location'=>'22 12 58N, 104 57 29E',
+		'district_id'=>'074'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'02386',
+		'name'=>'Yên Lâm',
+		'type'=>'Xã',
+		'location'=>'22 09 02N, 104 54 09E',
+		'district_id'=>'074'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'02389',
+		'name'=>'Minh Dân',
+		'type'=>'Xã',
+		'location'=>'22 11 26N, 104 59 19E',
+		'district_id'=>'074'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'02392',
+		'name'=>'Phù Lưu',
+		'type'=>'Xã',
+		'location'=>'22 10 51N, 105 03 05E',
+		'district_id'=>'074'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'02395',
+		'name'=>'Minh Hương',
+		'type'=>'Xã',
+		'location'=>'22 07 49N, 105 06 23E',
+		'district_id'=>'074'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'02398',
+		'name'=>'Yên Phú',
+		'type'=>'Xã',
+		'location'=>'22 06 28N, 104 58 34E',
+		'district_id'=>'074'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'02401',
+		'name'=>'Tân Thành',
+		'type'=>'Xã',
+		'location'=>'22 05 54N, 105 03 24E',
+		'district_id'=>'074'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'02404',
+		'name'=>'Bình Xa',
+		'type'=>'Xã',
+		'location'=>'22 03 26N, 105 07 27E',
+		'district_id'=>'074'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'02407',
+		'name'=>'Thái Sơn',
+		'type'=>'Xã',
+		'location'=>'22 01 26N, 105 05 42E',
+		'district_id'=>'074'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'02410',
+		'name'=>'Nhân Mục',
+		'type'=>'Xã',
+		'location'=>'22 01 21N, 105 00 42E',
+		'district_id'=>'074'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'02413',
+		'name'=>'Thành Long',
+		'type'=>'Xã',
+		'location'=>'21 58 41N, 105 02 58E',
+		'district_id'=>'074'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'02416',
+		'name'=>'Bằng Cốc',
+		'type'=>'Xã',
+		'location'=>'21 58 34N, 105 00 38E',
+		'district_id'=>'074'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'02419',
+		'name'=>'Thái Hòa',
+		'type'=>'Xã',
+		'location'=>'21 58 35N, 105 06 41E',
+		'district_id'=>'074'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'02422',
+		'name'=>'Đức Ninh',
+		'type'=>'Xã',
+		'location'=>'21 56 34N, 105 07 22E',
+		'district_id'=>'074'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'02425',
+		'name'=>'Hùng Đức',
+		'type'=>'Xã',
+		'location'=>'21 53 31N, 105 03 55E',
+		'district_id'=>'074'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'02428',
+		'name'=>'Tân Bình',
+		'type'=>'Thị Trấn',
+		'location'=>'21 41 55N, 105 14 00E',
+		'district_id'=>'075'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'02431',
+		'name'=>'Quí Quân',
+		'type'=>'Xã',
+		'location'=>'22 01 26N, 105 13 58E',
+		'district_id'=>'075'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'02434',
+		'name'=>'Lực Hành',
+		'type'=>'Xã',
+		'location'=>'22 01 04N, 105 11 33E',
+		'district_id'=>'075'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'02437',
+		'name'=>'Kiến Thiết',
+		'type'=>'Xã',
+		'location'=>'21 58 22N, 105 19 23E',
+		'district_id'=>'075'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'02440',
+		'name'=>'Trung Minh',
+		'type'=>'Xã',
+		'location'=>'21 58 04N, 105 30 27E',
+		'district_id'=>'075'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'02443',
+		'name'=>'Chiêu Yên',
+		'type'=>'Xã',
+		'location'=>'21 59 09N, 105 09 40E',
+		'district_id'=>'075'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'02446',
+		'name'=>'Trung Trực',
+		'type'=>'Xã',
+		'location'=>'21 57 22N, 105 16 50E',
+		'district_id'=>'075'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'02449',
+		'name'=>'Xuân Vân',
+		'type'=>'Xã',
+		'location'=>'21 57 11N, 105 13 53E',
+		'district_id'=>'075'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'02452',
+		'name'=>'Phúc Ninh',
+		'type'=>'Xã',
+		'location'=>'21 56 24N, 105 11 05E',
+		'district_id'=>'075'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'02455',
+		'name'=>'Hùng Lợi',
+		'type'=>'Xã',
+		'location'=>'21 54 10N, 105 28 47E',
+		'district_id'=>'075'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'02458',
+		'name'=>'Trung Sơn',
+		'type'=>'Xã',
+		'location'=>'21 54 20N, 105 24 47E',
+		'district_id'=>'075'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'02461',
+		'name'=>'Tân Tiến',
+		'type'=>'Xã',
+		'location'=>'21 53 37N, 105 17 24E',
+		'district_id'=>'075'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'02464',
+		'name'=>'Tứ Quận',
+		'type'=>'Xã',
+		'location'=>'21 53 50N, 105 07 51E',
+		'district_id'=>'075'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'02467',
+		'name'=>'Đạo Viện',
+		'type'=>'Xã',
+		'location'=>'21 52 51N, 105 20 59E',
+		'district_id'=>'075'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'02470',
+		'name'=>'Tân Long',
+		'type'=>'Xã',
+		'location'=>'21 53 02N, 105 13 12E',
+		'district_id'=>'075'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'02473',
+		'name'=>'Thắng Quân',
+		'type'=>'Xã',
+		'location'=>'21 52 38N, 105 09 53E',
+		'district_id'=>'075'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'02476',
+		'name'=>'Kim Quan',
+		'type'=>'Xã',
+		'location'=>'21 51 29N, 105 26 05E',
+		'district_id'=>'075'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'02479',
+		'name'=>'Lang Quán',
+		'type'=>'Xã',
+		'location'=>'20 50 49N, 105 06 31E',
+		'district_id'=>'075'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'02482',
+		'name'=>'Phú Thịnh',
+		'type'=>'Xã',
+		'location'=>'21 50 17N, 105 17 39E',
+		'district_id'=>'075'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'02485',
+		'name'=>'Công Đa',
+		'type'=>'Xã',
+		'location'=>'21 49 38N, 105 21 45E',
+		'district_id'=>'075'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'02488',
+		'name'=>'Trung Môn',
+		'type'=>'Xã',
+		'location'=>'21 49 49N, 105 10 04E',
+		'district_id'=>'075'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'02491',
+		'name'=>'Chân Sơn',
+		'type'=>'Xã',
+		'location'=>'21 49 01N, 105 07 44E',
+		'district_id'=>'075'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'02494',
+		'name'=>'Thái Bình',
+		'type'=>'Xã',
+		'location'=>'21 48 41N, 105 15 03E',
+		'district_id'=>'075'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'02497',
+		'name'=>'Kim Phú',
+		'type'=>'Xã',
+		'location'=>'21 46 58N, 105 10 10E',
+		'district_id'=>'075'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'02500',
+		'name'=>'Tiến Bộ',
+		'type'=>'Xã',
+		'location'=>'21 46 23N, 105 20 02E',
+		'district_id'=>'075'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'02503',
+		'name'=>'An Khang',
+		'type'=>'Xã',
+		'location'=>'21 46 51N, 105 15 31E',
+		'district_id'=>'070'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'02506',
+		'name'=>'Mỹ Bằng',
+		'type'=>'Xã',
+		'location'=>'21 45 55N, 105 05 18E',
+		'district_id'=>'075'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'02509',
+		'name'=>'Phú Lâm',
+		'type'=>'Xã',
+		'location'=>'21 45 49N, 105 07 47E',
+		'district_id'=>'075'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'02512',
+		'name'=>'An Tường',
+		'type'=>'Xã',
+		'location'=>'21 46 39N, 105 12 37E',
+		'district_id'=>'070'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'02515',
+		'name'=>'Lưỡng Vượng',
+		'type'=>'Xã',
+		'location'=>'21 46 29N, 105 13 29E',
+		'district_id'=>'070'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'02518',
+		'name'=>'Hoàng Khai',
+		'type'=>'Xã',
+		'location'=>'21 45 30N, 105 11 21E',
+		'district_id'=>'075'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'02521',
+		'name'=>'Thái Long',
+		'type'=>'Xã',
+		'location'=>'21 44 26N, 105 13 20E',
+		'district_id'=>'070'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'02524',
+		'name'=>'Đội Cấn',
+		'type'=>'Xã',
+		'location'=>'21 43 25N, 105 13 19E',
+		'district_id'=>'070'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'02527',
+		'name'=>'Nhữ Hán',
+		'type'=>'Xã',
+		'location'=>'21 43 17N, 105 07 05E',
+		'district_id'=>'075'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'02530',
+		'name'=>'Nhữ Khê',
+		'type'=>'Xã',
+		'location'=>'21 42 05N, 105 10 46E',
+		'district_id'=>'075'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'02533',
+		'name'=>'Đội Bình',
+		'type'=>'Xã',
+		'location'=>'21 40 54N, 105 12 38E',
+		'district_id'=>'075'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'02536',
+		'name'=>'Sơn Dương',
+		'type'=>'Thị Trấn',
+		'location'=>'21 41 33N, 105 23 59E',
+		'district_id'=>'076'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'02539',
+		'name'=>'Trung Yên',
+		'type'=>'Xã',
+		'location'=>'21 49 02N, 105 27 12E',
+		'district_id'=>'076'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'02542',
+		'name'=>'Minh Thanh',
+		'type'=>'Xã',
+		'location'=>'21 46 46N, 105 24 03E',
+		'district_id'=>'076'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'02545',
+		'name'=>'Tân Trào',
+		'type'=>'Xã',
+		'location'=>'21 46 38N, 105 28 05E',
+		'district_id'=>'076'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'02548',
+		'name'=>'Vĩnh Lợi',
+		'type'=>'Xã',
+		'location'=>'21 44 47N, 105 16 45E',
+		'district_id'=>'076'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'02551',
+		'name'=>'Thượng Ấm',
+		'type'=>'Xã',
+		'location'=>'21 43 50N, 105 19 29E',
+		'district_id'=>'076'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'02554',
+		'name'=>'Bình Yên',
+		'type'=>'Xã',
+		'location'=>'21 44 42N, 105 26 11E',
+		'district_id'=>'076'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'02557',
+		'name'=>'Lương Thiện',
+		'type'=>'Xã',
+		'location'=>'21 44 04N, 105 28 17E',
+		'district_id'=>'076'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'02560',
+		'name'=>'Tú Thịnh',
+		'type'=>'Xã',
+		'location'=>'21 43 25N, 105 22 03E',
+		'district_id'=>'076'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'02563',
+		'name'=>'Cấp Tiến',
+		'type'=>'Xã',
+		'location'=>'21 42 25N, 105 16 55E',
+		'district_id'=>'076'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'02566',
+		'name'=>'Hợp Thành',
+		'type'=>'Xã',
+		'location'=>'21 40 54N, 105 28 07E',
+		'district_id'=>'076'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'02569',
+		'name'=>'Phúc Ứng',
+		'type'=>'Xã',
+		'location'=>'21 39 54N, 105 22 04E',
+		'district_id'=>'076'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'02572',
+		'name'=>'Đông Thọ',
+		'type'=>'Xã',
+		'location'=>'21 39 44N, 105 17 17E',
+		'district_id'=>'076'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'02575',
+		'name'=>'Kháng Nhật',
+		'type'=>'Xã',
+		'location'=>'21 39 14N, 105 27 16E',
+		'district_id'=>'076'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'02578',
+		'name'=>'Hợp Hòa',
+		'type'=>'Xã',
+		'location'=>'21 37 24N, 105 26 25E',
+		'district_id'=>'076'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'02581',
+		'name'=>'Thanh Phát',
+		'type'=>'Xã',
+		'location'=>'21 37 32N, 105 21 14E',
+		'district_id'=>'076'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'02584',
+		'name'=>'Quyết Thắng',
+		'type'=>'Xã',
+		'location'=>'21 38 04N, 105 14 48E',
+		'district_id'=>'076'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'02587',
+		'name'=>'Đồng Quý',
+		'type'=>'Xã',
+		'location'=>'21 37 27N, 105 17 33E',
+		'district_id'=>'076'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'02590',
+		'name'=>'Tuân Lộ',
+		'type'=>'Xã',
+		'location'=>'21 36 03N, 105 24 43E',
+		'district_id'=>'076'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'02593',
+		'name'=>'Vân Sơn',
+		'type'=>'Xã',
+		'location'=>'21 35 56N, 105 15 22E',
+		'district_id'=>'076'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'02596',
+		'name'=>'Văn Phú',
+		'type'=>'Xã',
+		'location'=>'21 36 06N, 105 17 34E',
+		'district_id'=>'076'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'02599',
+		'name'=>'Chi Thiết',
+		'type'=>'Xã',
+		'location'=>'21 35 48N, 105 18 23E',
+		'district_id'=>'076'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'02602',
+		'name'=>'Đông Lợi',
+		'type'=>'Xã',
+		'location'=>'21 35 29N, 105 20 14E',
+		'district_id'=>'076'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'02605',
+		'name'=>'Thiện Kế',
+		'type'=>'Xã',
+		'location'=>'21 35 19N, 105 29 09E',
+		'district_id'=>'076'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'02608',
+		'name'=>'Hồng Lạc',
+		'type'=>'Xã',
+		'location'=>'21 34 44N, 105 16 36E',
+		'district_id'=>'076'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'02611',
+		'name'=>'Phú Lương',
+		'type'=>'Xã',
+		'location'=>'21 33 09N, 105 22 52E',
+		'district_id'=>'076'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'02614',
+		'name'=>'Ninh Lai',
+		'type'=>'Xã',
+		'location'=>'21 33 18N, 105 30 30E',
+		'district_id'=>'076'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'02617',
+		'name'=>'Đại Phú',
+		'type'=>'Xã',
+		'location'=>'21 32 16N, 105 25 26E',
+		'district_id'=>'076'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'02620',
+		'name'=>'Sơn Nam',
+		'type'=>'Xã',
+		'location'=>'21 32 44N, 105 27 47E',
+		'district_id'=>'076'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'02623',
+		'name'=>'Hào Phú',
+		'type'=>'Xã',
+		'location'=>'21 32 54N, 105 18 44E',
+		'district_id'=>'076'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'02626',
+		'name'=>'Tam Đa',
+		'type'=>'Xã',
+		'location'=>'21 32 26N, 105 20 45E',
+		'district_id'=>'076'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'02629',
+		'name'=>'Sầm Dương',
+		'type'=>'Xã',
+		'location'=>'21 32 36N, 105 17 20E',
+		'district_id'=>'076'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'02632',
+		'name'=>'Lâm Xuyên',
+		'type'=>'Xã',
+		'location'=>'21 31 07N, 105 18 56E',
+		'district_id'=>'076'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'02635',
+		'name'=>'Duyên Hải',
+		'type'=>'Phường',
+		'location'=>'22 30 00N, 103 57 21E',
+		'district_id'=>'080'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'02638',
+		'name'=>'Lào Cai',
+		'type'=>'Phường',
+		'location'=>'22 30 37N, 103 58 59E',
+		'district_id'=>'080'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'02641',
+		'name'=>'Phố Mới',
+		'type'=>'Phường',
+		'location'=>'22 29 55N, 103 59 08E',
+		'district_id'=>'080'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'02644',
+		'name'=>'Cốc Lếu',
+		'type'=>'Phường',
+		'location'=>'22 29 45N, 103 58 03E',
+		'district_id'=>'080'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'02647',
+		'name'=>'Kim Tân',
+		'type'=>'Phường',
+		'location'=>'22 48 47N, 103 58 25E',
+		'district_id'=>'080'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'02650',
+		'name'=>'Bắc Lệnh',
+		'type'=>'Phường',
+		'location'=>'22 25 56N, 104 00 31E',
+		'district_id'=>'080'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'02653',
+		'name'=>'Pom Hán',
+		'type'=>'Phường',
+		'location'=>'22 24 59N, 104 00 56E',
+		'district_id'=>'080'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'02656',
+		'name'=>'Xuân Tăng',
+		'type'=>'Phường',
+		'location'=>'22 24 54N, 104 03 00E',
+		'district_id'=>'080'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'02658',
+		'name'=>'Bình Minh',
+		'type'=>'Phường',
+		'location'=>'22 25 54N, 104 01 27E',
+		'district_id'=>'080'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'02659',
+		'name'=>'Thống Nhất',
+		'type'=>'Phường',
+		'location'=>'22 24 00N, 104 02 47E',
+		'district_id'=>'080'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'02662',
+		'name'=>'Đồng Tuyển',
+		'type'=>'Xã',
+		'location'=>'22 29 40N, 103 56 48E',
+		'district_id'=>'080'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'02665',
+		'name'=>'Vạn Hoà',
+		'type'=>'Xã',
+		'location'=>'22 28 39N, 104 00 50E',
+		'district_id'=>'080'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'02668',
+		'name'=>'Bắc Cường',
+		'type'=>'Phường',
+		'location'=>'22 27 19N, 103 58 39E',
+		'district_id'=>'080'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'02671',
+		'name'=>'Nam Cường',
+		'type'=>'Phường',
+		'location'=>'22 26 25N, 103 59 22E',
+		'district_id'=>'080'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'02674',
+		'name'=>'Cam Đường',
+		'type'=>'Xã',
+		'location'=>'22 24 50N, 103 59 37E',
+		'district_id'=>'080'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'02677',
+		'name'=>'Tả Phời',
+		'type'=>'Xã',
+		'location'=>'22 22 33N, 103 57 26E',
+		'district_id'=>'080'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'02680',
+		'name'=>'Hợp Thành',
+		'type'=>'Xã',
+		'location'=>'22 21 47N, 104 00 45E',
+		'district_id'=>'080'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'02683',
+		'name'=>'Bát Xát',
+		'type'=>'Thị Trấn',
+		'location'=>'22 32 23N, 103 53 13E',
+		'district_id'=>'082'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'02686',
+		'name'=>'A Mú Sung',
+		'type'=>'Xã',
+		'location'=>'22 44 05N, 103 38 32E',
+		'district_id'=>'082'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'02689',
+		'name'=>'Nậm Chạc',
+		'type'=>'Xã',
+		'location'=>'22 42 29N, 103 41 25E',
+		'district_id'=>'082'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'02692',
+		'name'=>'A Lù',
+		'type'=>'Xã',
+		'location'=>'22 42 29N, 103 35 47E',
+		'district_id'=>'082'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'02695',
+		'name'=>'Trịnh Tường',
+		'type'=>'Xã',
+		'location'=>'22 39 38N, 103 43 26E',
+		'district_id'=>'082'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'02698',
+		'name'=>'Ngải Thầu',
+		'type'=>'Xã',
+		'location'=>'22 40 41N, 103 36 46E',
+		'district_id'=>'082'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'02701',
+		'name'=>'Y Tý',
+		'type'=>'Xã',
+		'location'=>'22 37 27N, 103 36 14E',
+		'district_id'=>'082'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'02704',
+		'name'=>'Cốc Mỳ',
+		'type'=>'Xã',
+		'location'=>'22 36 41N, 103 45 12E',
+		'district_id'=>'082'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'02707',
+		'name'=>'Dền Sáng',
+		'type'=>'Xã',
+		'location'=>'22 35 18N, 103 39 51E',
+		'district_id'=>'082'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'02710',
+		'name'=>'Bản Vược',
+		'type'=>'Xã',
+		'location'=>'22 35 14N, 103 48 24E',
+		'district_id'=>'082'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'02713',
+		'name'=>'Sàng Ma Sáo',
+		'type'=>'Xã',
+		'location'=>'22 33 20N, 103 38 02E',
+		'district_id'=>'082'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'02716',
+		'name'=>'Bản Qua',
+		'type'=>'Xã',
+		'location'=>'22 32 42N, 103 51 36E',
+		'district_id'=>'082'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'02719',
+		'name'=>'Mường Vi',
+		'type'=>'Xã',
+		'location'=>'22 32 40N, 103 47 53E',
+		'district_id'=>'082'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'02722',
+		'name'=>'Dền Thàng',
+		'type'=>'Xã',
+		'location'=>'22 33 06N, 103 42 51E',
+		'district_id'=>'082'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'02725',
+		'name'=>'Bản Xèo',
+		'type'=>'Xã',
+		'location'=>'22 31 41N, 103 45 06E',
+		'district_id'=>'082'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'02728',
+		'name'=>'Mường Hum',
+		'type'=>'Xã',
+		'location'=>'22 30 49N, 103 41 16E',
+		'district_id'=>'082'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'02731',
+		'name'=>'Trung Lèng Hồ',
+		'type'=>'Xã',
+		'location'=>'22 27 39N, 103 38 05E',
+		'district_id'=>'082'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'02734',
+		'name'=>'Quang Kim',
+		'type'=>'Xã',
+		'location'=>'22 30 31N, 103 53 21E',
+		'district_id'=>'082'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'02737',
+		'name'=>'Pa Cheo',
+		'type'=>'Xã',
+		'location'=>'22 29 21N, 103 46 32E',
+		'district_id'=>'082'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'02740',
+		'name'=>'Nậm Pung',
+		'type'=>'Xã',
+		'location'=>'22 28 37N, 103 43 17E',
+		'district_id'=>'082'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'02743',
+		'name'=>'Phìn Ngan',
+		'type'=>'Xã',
+		'location'=>'22 27 40N, 103 50 34E',
+		'district_id'=>'082'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'02746',
+		'name'=>'Cốc San',
+		'type'=>'Xã',
+		'location'=>'22 27 31N, 103 56 05E',
+		'district_id'=>'082'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'02749',
+		'name'=>'Tòng Sành',
+		'type'=>'Xã',
+		'location'=>'22 26 58N, 103 54 13E',
+		'district_id'=>'082'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'02752',
+		'name'=>'Pha Long',
+		'type'=>'Xã',
+		'location'=>'22 48 33N, 104 13 56E',
+		'district_id'=>'083'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'02755',
+		'name'=>'Tả Ngải Chồ',
+		'type'=>'Xã',
+		'location'=>'22 48 09N, 104 11 48E',
+		'district_id'=>'083'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'02758',
+		'name'=>'Tung Chung Phố',
+		'type'=>'Xã',
+		'location'=>'22 46 44N, 104 08 45E',
+		'district_id'=>'083'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'02761',
+		'name'=>'Mường Khương',
+		'type'=>'Xã',
+		'location'=>'22 46 15N, 104 06 12E',
+		'district_id'=>'083'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'02764',
+		'name'=>'Dìn Chin',
+		'type'=>'Xã',
+		'location'=>'22 46 28N, 104 13 11E',
+		'district_id'=>'083'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'02767',
+		'name'=>'Tả Gia Khâu',
+		'type'=>'Xã',
+		'location'=>'22 44 30N, 104 14 09E',
+		'district_id'=>'083'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'02770',
+		'name'=>'Nậm Chảy',
+		'type'=>'Xã',
+		'location'=>'22 41 58N, 104 03 24E',
+		'district_id'=>'083'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'02773',
+		'name'=>'Nấm Lư',
+		'type'=>'Xã',
+		'location'=>'22 43 51N, 104 09 05E',
+		'district_id'=>'083'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'02776',
+		'name'=>'Lùng Khấu Nhin',
+		'type'=>'Xã',
+		'location'=>'22 42 10N, 104 09 23E',
+		'district_id'=>'083'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'02779',
+		'name'=>'Thanh Bình',
+		'type'=>'Xã',
+		'location'=>'22 41 38N, 104 05 56E',
+		'district_id'=>'083'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'02782',
+		'name'=>'Cao Sơn',
+		'type'=>'Xã',
+		'location'=>'22 38 33N, 104 09 35E',
+		'district_id'=>'083'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'02785',
+		'name'=>'Lùng Vai',
+		'type'=>'Xã',
+		'location'=>'22 37 32N, 104 04 40E',
+		'district_id'=>'083'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'02788',
+		'name'=>'Bản Lầu',
+		'type'=>'Xã',
+		'location'=>'22 34 33N, 104 02 40E',
+		'district_id'=>'083'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'02791',
+		'name'=>'La Pan Tẩn',
+		'type'=>'Xã',
+		'location'=>'22 34 38N, 104 08 38E',
+		'district_id'=>'083'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'02794',
+		'name'=>'Tả Thàng',
+		'type'=>'Xã',
+		'location'=>'22 34 15N, 104 10 56E',
+		'district_id'=>'083'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'02797',
+		'name'=>'Bản Sen',
+		'type'=>'Xã',
+		'location'=>'22 34 12N, 104 06 06E',
+		'district_id'=>'083'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'02800',
+		'name'=>'Nàn Sán',
+		'type'=>'Xã',
+		'location'=>'22 42 49N, 104 15 59E',
+		'district_id'=>'084'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'02803',
+		'name'=>'Thào Chư Phìn',
+		'type'=>'Xã',
+		'location'=>'22 41 59N, 104 11 40E',
+		'district_id'=>'084'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'02806',
+		'name'=>'Bản Mế',
+		'type'=>'Xã',
+		'location'=>'22 41 49N, 104 13 31E',
+		'district_id'=>'084'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'02809',
+		'name'=>'Si Ma Cai',
+		'type'=>'Xã',
+		'location'=>'22 42 16N, 104 17 42E',
+		'district_id'=>'084'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'02812',
+		'name'=>'Sán Chải',
+		'type'=>'Xã',
+		'location'=>'22 41 48N, 104 18 21E',
+		'district_id'=>'084'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'02815',
+		'name'=>'Mản Thẩn',
+		'type'=>'Xã',
+		'location'=>'22 40 01N, 104 15 18E',
+		'district_id'=>'084'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'02818',
+		'name'=>'Lùng Sui',
+		'type'=>'Xã',
+		'location'=>'22 39 39N, 104 20 13E',
+		'district_id'=>'084'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'02821',
+		'name'=>'Cán Cấu',
+		'type'=>'Xã',
+		'location'=>'22 38 25N, 104 17 54E',
+		'district_id'=>'084'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'02824',
+		'name'=>'Sín Chéng',
+		'type'=>'Xã',
+		'location'=>'22 38 34N, 104 13 03E',
+		'district_id'=>'084'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'02827',
+		'name'=>'Cán Hồ',
+		'type'=>'Xã',
+		'location'=>'22 39 30N, 104 16 51E',
+		'district_id'=>'084'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'02830',
+		'name'=>'Quan Thần Sán',
+		'type'=>'Xã',
+		'location'=>'22 38 12N, 104 15 50E',
+		'district_id'=>'084'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'02833',
+		'name'=>'Lử Thẩn',
+		'type'=>'Xã',
+		'location'=>'22 37 14N, 104 19 47E',
+		'district_id'=>'084'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'02836',
+		'name'=>'Nàn Xín',
+		'type'=>'Xã',
+		'location'=>'22 36 48N, 104 13 22E',
+		'district_id'=>'084'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'02839',
+		'name'=>'Bắc Hà',
+		'type'=>'Thị Trấn',
+		'location'=>'22 32 24N, 104 17 29E',
+		'district_id'=>'085'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'02842',
+		'name'=>'Lùng Cải',
+		'type'=>'Xã',
+		'location'=>'22 38 49N, 104 23 04E',
+		'district_id'=>'085'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'02845',
+		'name'=>'Bản Già',
+		'type'=>'Xã',
+		'location'=>'22 37 06N, 104 24 17E',
+		'district_id'=>'085'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'02848',
+		'name'=>'Lùng Phình',
+		'type'=>'Xã',
+		'location'=>'22 36 15N, 104 20 55E',
+		'district_id'=>'085'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'02851',
+		'name'=>'Tả Van Chư',
+		'type'=>'Xã',
+		'location'=>'22 36 04N, 104 16 31E',
+		'district_id'=>'085'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'02854',
+		'name'=>'Tả Củ Tỷ',
+		'type'=>'Xã',
+		'location'=>'22 35 43N, 104 25 41E',
+		'district_id'=>'085'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'02857',
+		'name'=>'Thải Giàng Phố',
+		'type'=>'Xã',
+		'location'=>'22 32 46N, 104 21 42E',
+		'district_id'=>'085'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'02860',
+		'name'=>'Lầu Thí Ngài',
+		'type'=>'Xã',
+		'location'=>'22 34 19N, 104 19 26E',
+		'district_id'=>'085'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'02863',
+		'name'=>'Hoàng Thu Phố',
+		'type'=>'Xã',
+		'location'=>'22 33 46N, 104 13 56E',
+		'district_id'=>'085'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'02866',
+		'name'=>'Bản Phố',
+		'type'=>'Xã',
+		'location'=>'22 33 28N, 104 15 59E',
+		'district_id'=>'085'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'02869',
+		'name'=>'Bản Liền',
+		'type'=>'Xã',
+		'location'=>'22 31 09N, 104 23 20E',
+		'district_id'=>'085'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'02872',
+		'name'=>'Tà Chải',
+		'type'=>'Xã',
+		'location'=>'22 32 18N, 104 18 05E',
+		'district_id'=>'085'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'02875',
+		'name'=>'Na Hối',
+		'type'=>'Xã',
+		'location'=>'22 30 59N, 104 17 17E',
+		'district_id'=>'085'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'02878',
+		'name'=>'Cốc Ly',
+		'type'=>'Xã',
+		'location'=>'22 29 51N, 104 12 55E',
+		'district_id'=>'085'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'02881',
+		'name'=>'Nậm Mòn',
+		'type'=>'Xã',
+		'location'=>'22 29 00N, 104 15 37E',
+		'district_id'=>'085'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'02884',
+		'name'=>'Nậm Đét',
+		'type'=>'Xã',
+		'location'=>'22 26 24N, 104 18 41E',
+		'district_id'=>'085'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'02887',
+		'name'=>'Nậm Khánh',
+		'type'=>'Xã',
+		'location'=>'22 26 17N, 104 20 03E',
+		'district_id'=>'085'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'02890',
+		'name'=>'Bảo Nhai',
+		'type'=>'Xã',
+		'location'=>'22 25 51N, 104 14 52E',
+		'district_id'=>'085'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'02893',
+		'name'=>'Nậm Lúc',
+		'type'=>'Xã',
+		'location'=>'22 24 16N, 104 21 27E',
+		'district_id'=>'085'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'02896',
+		'name'=>'Cốc Lầu',
+		'type'=>'Xã',
+		'location'=>'22 22 29N, 104 19 20E',
+		'district_id'=>'085'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'02899',
+		'name'=>'Bản Cái',
+		'type'=>'Xã',
+		'location'=>'22 21 46N, 104 25 10E',
+		'district_id'=>'085'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'02902',
+		'name'=>'N.t Phong Hải',
+		'type'=>'Thị Trấn',
+		'location'=>'22 28 26N, 104 07 52E',
+		'district_id'=>'086'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'02905',
+		'name'=>'Phố Lu',
+		'type'=>'Thị Trấn',
+		'location'=>'22 19 51N, 104 11 25E',
+		'district_id'=>'086'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'02908',
+		'name'=>'Tằng Loỏng',
+		'type'=>'Thị Trấn',
+		'location'=>'22 16 03N, 104 05 21E',
+		'district_id'=>'086'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'02911',
+		'name'=>'Bản Phiệt',
+		'type'=>'Xã',
+		'location'=>'22 30 42N, 104 01 12E',
+		'district_id'=>'086'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'02914',
+		'name'=>'Bản Cầm',
+		'type'=>'Xã',
+		'location'=>'22 30 39N, 104 05 07E',
+		'district_id'=>'086'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'02917',
+		'name'=>'Thái Niên',
+		'type'=>'Xã',
+		'location'=>'22 24 27N, 104 06 24E',
+		'district_id'=>'086'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'02920',
+		'name'=>'Phong Niên',
+		'type'=>'Xã',
+		'location'=>'22 24 25N, 104 11 50E',
+		'district_id'=>'086'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'02923',
+		'name'=>'Gia Phú',
+		'type'=>'Xã',
+		'location'=>'22 20 23N, 104 04 05E',
+		'district_id'=>'086'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'02926',
+		'name'=>'Xuân Quang',
+		'type'=>'Xã',
+		'location'=>'22 21 11N, 104 15 26E',
+		'district_id'=>'086'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'02929',
+		'name'=>'Sơn Hải',
+		'type'=>'Xã',
+		'location'=>'22 20 21N, 104 08 15E',
+		'district_id'=>'086'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'02932',
+		'name'=>'Xuân Giao',
+		'type'=>'Xã',
+		'location'=>'22 20 02N, 104 07 13E',
+		'district_id'=>'086'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'02935',
+		'name'=>'Trì Quang',
+		'type'=>'Xã',
+		'location'=>'22 18 39N, 104 15 08E',
+		'district_id'=>'086'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'02938',
+		'name'=>'Sơn Hà',
+		'type'=>'Xã',
+		'location'=>'22 17 19N, 104 11 25E',
+		'district_id'=>'086'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'02941',
+		'name'=>'Phố Lu',
+		'type'=>'Xã',
+		'location'=>'22 17 57N, 104 13 07E',
+		'district_id'=>'086'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'02944',
+		'name'=>'Phú Nhuận',
+		'type'=>'Xã',
+		'location'=>'22 14 57N, 104 08 35E',
+		'district_id'=>'086'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'02947',
+		'name'=>'Phố Ràng',
+		'type'=>'Thị Trấn',
+		'location'=>'22 13 52N, 104 29 07E',
+		'district_id'=>'087'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'02950',
+		'name'=>'Tân Tiến',
+		'type'=>'Xã',
+		'location'=>'22 26 39N, 104 25 48E',
+		'district_id'=>'087'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'02953',
+		'name'=>'Nghĩa Đô',
+		'type'=>'Xã',
+		'location'=>'22 24 04N, 104 27 25E',
+		'district_id'=>'087'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'02956',
+		'name'=>'Vĩnh Yên',
+		'type'=>'Xã',
+		'location'=>'22 22 03N, 104 30 53E',
+		'district_id'=>'087'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'02959',
+		'name'=>'Điện Quan',
+		'type'=>'Xã',
+		'location'=>'22 19 07N, 104 20 33E',
+		'district_id'=>'087'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'02962',
+		'name'=>'Xuân Hoà',
+		'type'=>'Xã',
+		'location'=>'22 18 10N, 104 31 04E',
+		'district_id'=>'087'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'02965',
+		'name'=>'Tân Dương',
+		'type'=>'Xã',
+		'location'=>'22 17 22N, 104 27 41E',
+		'district_id'=>'087'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'02968',
+		'name'=>'Thượng Hà',
+		'type'=>'Xã',
+		'location'=>'22 17 32N, 104 23 41E',
+		'district_id'=>'087'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'02971',
+		'name'=>'Kim Sơn',
+		'type'=>'Xã',
+		'location'=>'22 15 54N, 104 18 24E',
+		'district_id'=>'087'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'02974',
+		'name'=>'Cam Cọn',
+		'type'=>'Xã',
+		'location'=>'22 13 53N, 104 15 47E',
+		'district_id'=>'087'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'02977',
+		'name'=>'Minh Tân',
+		'type'=>'Xã',
+		'location'=>'22 14 52N, 104 24 03E',
+		'district_id'=>'087'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'02980',
+		'name'=>'Xuân Thượng',
+		'type'=>'Xã',
+		'location'=>'22 14 09N, 104 31 52E',
+		'district_id'=>'087'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'02983',
+		'name'=>'Việt Tiến',
+		'type'=>'Xã',
+		'location'=>'22 12 46N, 104 35 09E',
+		'district_id'=>'087'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'02986',
+		'name'=>'Yên Sơn',
+		'type'=>'Xã',
+		'location'=>'22 13 07N, 104 26 47E',
+		'district_id'=>'087'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'02989',
+		'name'=>'Bảo Hà',
+		'type'=>'Xã',
+		'location'=>'22 11 25N, 104 22 04E',
+		'district_id'=>'087'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'02992',
+		'name'=>'Lương Sơn',
+		'type'=>'Xã',
+		'location'=>'22 10 47N, 104 29 06E',
+		'district_id'=>'087'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'02995',
+		'name'=>'Long Phúc',
+		'type'=>'Xã',
+		'location'=>'22 10 34N, 104 32 17E',
+		'district_id'=>'087'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'02998',
+		'name'=>'Long Khánh',
+		'type'=>'Xã',
+		'location'=>'22 08 32N, 104 32 22E',
+		'district_id'=>'087'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03001',
+		'name'=>'Sa Pa',
+		'type'=>'Thị Trấn',
+		'location'=>'22 20 51N, 103 49 03E',
+		'district_id'=>'088'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03004',
+		'name'=>'Bản Khoang',
+		'type'=>'Xã',
+		'location'=>'22 25 58N, 103 47 37E',
+		'district_id'=>'088'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03007',
+		'name'=>'Tả Giàng Phình',
+		'type'=>'Xã',
+		'location'=>'22 26 06N, 103 45 35E',
+		'district_id'=>'088'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03010',
+		'name'=>'Trung Chải',
+		'type'=>'Xã',
+		'location'=>'22 23 40N, 103 53 37E',
+		'district_id'=>'088'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03013',
+		'name'=>'Tả Phìn',
+		'type'=>'Xã',
+		'location'=>'22 23 58N, 103 50 15E',
+		'district_id'=>'088'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03016',
+		'name'=>'Sa Pả',
+		'type'=>'Xã',
+		'location'=>'22 21 32N, 103 51 54E',
+		'district_id'=>'088'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03019',
+		'name'=>'San Sả Hồ',
+		'type'=>'Xã',
+		'location'=>'22 19 28N, 103 48 19E',
+		'district_id'=>'088'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03022',
+		'name'=>'Bản Phùng',
+		'type'=>'Xã',
+		'location'=>'22 18 46N, 103 59 41E',
+		'district_id'=>'088'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03025',
+		'name'=>'Hầu Thào',
+		'type'=>'Xã',
+		'location'=>'22 18 49N, 103 53 56E',
+		'district_id'=>'088'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03028',
+		'name'=>'Lao Chải',
+		'type'=>'Xã',
+		'location'=>'22 17 24N, 103 51 21E',
+		'district_id'=>'088'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03031',
+		'name'=>'Thanh Kim',
+		'type'=>'Xã',
+		'location'=>'22 17 27N, 103 57 30E',
+		'district_id'=>'088'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03034',
+		'name'=>'Suối Thầu',
+		'type'=>'Xã',
+		'location'=>'22 16 04N, 104 02 52E',
+		'district_id'=>'088'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03037',
+		'name'=>'Sử Pán',
+		'type'=>'Xã',
+		'location'=>'22 17 29N, 103 55 36E',
+		'district_id'=>'088'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03040',
+		'name'=>'Tả Van',
+		'type'=>'Xã',
+		'location'=>'22 14 30N, 103 53 06E',
+		'district_id'=>'088'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03043',
+		'name'=>'Thanh Phú',
+		'type'=>'Xã',
+		'location'=>'22 16 12N, 104 00 25E',
+		'district_id'=>'088'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03046',
+		'name'=>'Bản Hồ',
+		'type'=>'Xã',
+		'location'=>'22 12 40N, 103 55 48E',
+		'district_id'=>'088'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03049',
+		'name'=>'Nậm Sài',
+		'type'=>'Xã',
+		'location'=>'22 13 18N, 104 00 23E',
+		'district_id'=>'088'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03052',
+		'name'=>'Nậm Cang',
+		'type'=>'Xã',
+		'location'=>'22 11 20N, 104 01 29E',
+		'district_id'=>'088'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03055',
+		'name'=>'Khánh Yên',
+		'type'=>'Thị Trấn',
+		'location'=>'22 05 56N, 104 14 58E',
+		'district_id'=>'089'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03058',
+		'name'=>'Văn Sơn',
+		'type'=>'Xã',
+		'location'=>'22 14 10N, 104 12 21E',
+		'district_id'=>'089'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03061',
+		'name'=>'Võ Lao',
+		'type'=>'Xã',
+		'location'=>'22 11 35N, 104 11 45E',
+		'district_id'=>'089'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03064',
+		'name'=>'Sơn Thuỷ',
+		'type'=>'Xã',
+		'location'=>'22 09 46N, 104 16 26E',
+		'district_id'=>'089'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03067',
+		'name'=>'Nậm Mả',
+		'type'=>'Xã',
+		'location'=>'22 09 58N, 104 07 59E',
+		'district_id'=>'089'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03070',
+		'name'=>'Tân Thượng',
+		'type'=>'Xã',
+		'location'=>'22 09 14N, 104 19 05E',
+		'district_id'=>'089'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03073',
+		'name'=>'Nậm Rạng',
+		'type'=>'Xã',
+		'location'=>'22 08 40N, 104 11 53E',
+		'district_id'=>'089'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03076',
+		'name'=>'Nậm Chầy',
+		'type'=>'Xã',
+		'location'=>'22 07 44N, 104 03 46E',
+		'district_id'=>'089'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03079',
+		'name'=>'Tân An',
+		'type'=>'Xã',
+		'location'=>'22 07 36N, 104 22 29E',
+		'district_id'=>'089'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03082',
+		'name'=>'Khánh Yên Thượng',
+		'type'=>'Xã',
+		'location'=>'22 05 50N, 104 16 09E',
+		'district_id'=>'089'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03085',
+		'name'=>'Nậm Xé',
+		'type'=>'Xã',
+		'location'=>'22 02 36N, 103 59 57E',
+		'district_id'=>'089'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03088',
+		'name'=>'Dần Thàng',
+		'type'=>'Xã',
+		'location'=>'22 06 09N, 104 07 22E',
+		'district_id'=>'089'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03091',
+		'name'=>'Chiềng Ken',
+		'type'=>'Xã',
+		'location'=>'22 04 40N, 104 19 50E',
+		'district_id'=>'089'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03094',
+		'name'=>'Làng Giàng',
+		'type'=>'Xã',
+		'location'=>'22 04 50N, 104 13 29E',
+		'district_id'=>'089'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03097',
+		'name'=>'Hoà Mạc',
+		'type'=>'Xã',
+		'location'=>'22 04 53N, 104 10 46E',
+		'district_id'=>'089'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03100',
+		'name'=>'Khánh Yên Trung',
+		'type'=>'Xã',
+		'location'=>'22 01 44N, 104 15 19E',
+		'district_id'=>'089'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03103',
+		'name'=>'Khánh Yên Hạ',
+		'type'=>'Xã',
+		'location'=>'22 00 30N, 104 16 05E',
+		'district_id'=>'089'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03106',
+		'name'=>'Dương Quỳ',
+		'type'=>'Xã',
+		'location'=>'22 01 30N, 104 10 49E',
+		'district_id'=>'089'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03109',
+		'name'=>'Nậm Tha',
+		'type'=>'Xã',
+		'location'=>'21 58 25N, 104 22 41E',
+		'district_id'=>'089'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03112',
+		'name'=>'Minh Lương',
+		'type'=>'Xã',
+		'location'=>'22 01 24N, 104 03 29E',
+		'district_id'=>'089'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03115',
+		'name'=>'Thẩm Dương',
+		'type'=>'Xã',
+		'location'=>'22 01 41N, 104 06 37E',
+		'district_id'=>'089'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03118',
+		'name'=>'Liêm Phú',
+		'type'=>'Xã',
+		'location'=>'21 58 38N, 104 19 01E',
+		'district_id'=>'089'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03121',
+		'name'=>'Nậm Xây',
+		'type'=>'Xã',
+		'location'=>'21 56 49N, 104 06 36E',
+		'district_id'=>'089'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03124',
+		'name'=>'Noong Bua',
+		'type'=>'Phường',
+		'location'=>'21 23 55N, 103 03 21E',
+		'district_id'=>'094'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03127',
+		'name'=>'Him Lam',
+		'type'=>'Phường',
+		'location'=>'21 24 09N, 103 01 51E',
+		'district_id'=>'094'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03130',
+		'name'=>'Thanh Bình',
+		'type'=>'Phường',
+		'location'=>'21 23 59N, 103 00 35E',
+		'district_id'=>'094'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03133',
+		'name'=>'Tân Thanh',
+		'type'=>'Phường',
+		'location'=>'21 23 34N, 103 01 19E',
+		'district_id'=>'094'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03136',
+		'name'=>'Mường Thanh',
+		'type'=>'Phường',
+		'location'=>'21 23 10N, 103 01 10E',
+		'district_id'=>'094'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03139',
+		'name'=>'Nam Thanh',
+		'type'=>'Phường',
+		'location'=>'21 22 30N, 103 02 12E',
+		'district_id'=>'094'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03142',
+		'name'=>'Thanh Trường',
+		'type'=>'Phường',
+		'location'=>'21 23 59N, 103 00 05E',
+		'district_id'=>'094'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03144',
+		'name'=>'Tà Lèng',
+		'type'=>'Xã',
+		'location'=>'',
+		'district_id'=>'094'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03145',
+		'name'=>'Thanh Minh',
+		'type'=>'Xã',
+		'location'=>'21 25 52N, 103 03 17E',
+		'district_id'=>'094'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03148',
+		'name'=>'Sông Đà',
+		'type'=>'Phường',
+		'location'=>'22 04 30N, 103 06 51E',
+		'district_id'=>'095'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03151',
+		'name'=>'Na Lay',
+		'type'=>'Phường',
+		'location'=>'22 02 02N, 103 08 53E',
+		'district_id'=>'095'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03154',
+		'name'=>'Sín Thầu',
+		'type'=>'Xã',
+		'location'=>'22 25 09N, 102 16 29E',
+		'district_id'=>'096'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03155',
+		'name'=>'Sen Thượng',
+		'type'=>'Xã',
+		'location'=>'',
+		'district_id'=>'096'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03157',
+		'name'=>'Chung Chải',
+		'type'=>'Xã',
+		'location'=>'22 17 41N, 102 21 56E',
+		'district_id'=>'096'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03158',
+		'name'=>'Leng Su Sìn',
+		'type'=>'Xã',
+		'location'=>'',
+		'district_id'=>'096'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03159',
+		'name'=>'Pá Mỳ',
+		'type'=>'Xã',
+		'location'=>'',
+		'district_id'=>'096'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03160',
+		'name'=>'Mường Nhé',
+		'type'=>'Xã',
+		'location'=>'22 10 00N, 102 27 12E',
+		'district_id'=>'096'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03161',
+		'name'=>'Nậm Vì',
+		'type'=>'Xã',
+		'location'=>'',
+		'district_id'=>'096'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03162',
+		'name'=>'Nậm Kè',
+		'type'=>'Xã',
+		'location'=>'',
+		'district_id'=>'096'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03163',
+		'name'=>'Mường Toong',
+		'type'=>'Xã',
+		'location'=>'22 04 54N, 102 36 39E',
+		'district_id'=>'096'
+		] );
+
+
+		Ward::create( [
+		'ward_id'=>'03164',
+		'name'=>'Quảng Lâm',
+		'type'=>'Xã',
+		'location'=>'',
+		'district_id'=>'096'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03165',
+		'name'=>'Pa Tần',
+		'type'=>'Xã',
+		'location'=>'',
+		'district_id'=>'096'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03166',
+		'name'=>'Chà Cang',
+		'type'=>'Xã',
+		'location'=>'21 59 10N, 102 46 04E',
+		'district_id'=>'096'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03167',
+		'name'=>'Na Cô Sa',
+		'type'=>'Xã',
+		'location'=>'',
+		'district_id'=>'096'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03168',
+		'name'=>'Nà Khoa',
+		'type'=>'Xã',
+		'location'=>'',
+		'district_id'=>'096'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03169',
+		'name'=>'Nà Hỳ',
+		'type'=>'Xã',
+		'location'=>'21 47 26N, 103 42 16E',
+		'district_id'=>'096'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03170',
+		'name'=>'Nà Bủng',
+		'type'=>'Xã',
+		'location'=>'',
+		'district_id'=>'096'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03172',
+		'name'=>'Mường Chà',
+		'type'=>'Thị Trấn',
+		'location'=>'21 45 36N, 103 06 01E',
+		'district_id'=>'097'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03174',
+		'name'=>'Nậm Khăn',
+		'type'=>'Xã',
+		'location'=>'',
+		'district_id'=>'097'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03175',
+		'name'=>'Chà Tở',
+		'type'=>'Xã',
+		'location'=>'21 59 10N, 102 56 24E',
+		'district_id'=>'097'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03178',
+		'name'=>'Xá Tổng',
+		'type'=>'Xã',
+		'location'=>'22 00 08N, 103 13 36E',
+		'district_id'=>'097'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03181',
+		'name'=>'Mường Tùng',
+		'type'=>'Xã',
+		'location'=>'21 58 55N, 103 05 00E',
+		'district_id'=>'097'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03184',
+		'name'=>'Lay Nưa',
+		'type'=>'Xã',
+		'location'=>'22 00 39N, 103 06 36E',
+		'district_id'=>'095'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03187',
+		'name'=>'Chà Nưa',
+		'type'=>'Xã',
+		'location'=>'21 53 40N, 102 53 18E',
+		'district_id'=>'097'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03190',
+		'name'=>'Hừa Ngài',
+		'type'=>'Xã',
+		'location'=>'21 50 32N, 103 12 10E',
+		'district_id'=>'097'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03193',
+		'name'=>'Pa Ham',
+		'type'=>'Xã',
+		'location'=>'21 52 13N, 103 16 48E',
+		'district_id'=>'097'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03196',
+		'name'=>'Huổi Lèng',
+		'type'=>'Xã',
+		'location'=>'21 51 38N, 103 06 00E',
+		'district_id'=>'097'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03197',
+		'name'=>'Sa Lông',
+		'type'=>'Xã',
+		'location'=>'',
+		'district_id'=>'097'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03198',
+		'name'=>'Phìn Hồ',
+		'type'=>'Xã',
+		'location'=>'',
+		'district_id'=>'097'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03199',
+		'name'=>'Si Pa Phìn',
+		'type'=>'Xã',
+		'location'=>'21 46 38N, 102 56 52E',
+		'district_id'=>'097'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03200',
+		'name'=>'Ma Thì Hồ',
+		'type'=>'Xã',
+		'location'=>'',
+		'district_id'=>'097'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03201',
+		'name'=>'Na Sang',
+		'type'=>'Xã',
+		'location'=>'',
+		'district_id'=>'097'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03202',
+		'name'=>'Mường Mươn',
+		'type'=>'Xã',
+		'location'=>'21 41 22N, 103 04 24E',
+		'district_id'=>'097'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03203',
+		'name'=>'Điện Biên Đông',
+		'type'=>'Thị Trấn',
+		'location'=>'',
+		'district_id'=>'101'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03205',
+		'name'=>'Na Son',
+		'type'=>'Xã',
+		'location'=>'21 20 57N, 103 13 18E',
+		'district_id'=>'101'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03208',
+		'name'=>'Phì Nhừ',
+		'type'=>'Xã',
+		'location'=>'21 17 02N, 103 17 22E',
+		'district_id'=>'101'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03211',
+		'name'=>'Chiềng Sơ',
+		'type'=>'Xã',
+		'location'=>'21 17 07N, 103 23 30E',
+		'district_id'=>'101'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03214',
+		'name'=>'Mường Luân',
+		'type'=>'Xã',
+		'location'=>'21 14 42N, 103 21 08E',
+		'district_id'=>'101'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03217',
+		'name'=>'Tủa Chùa',
+		'type'=>'Thị Trấn',
+		'location'=>'21 51 30N, 103 20 16E',
+		'district_id'=>'098'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03220',
+		'name'=>'Huổi Só',
+		'type'=>'Xã',
+		'location'=>'22 04 49N, 103 24 56E',
+		'district_id'=>'098'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03223',
+		'name'=>'Xín Chải',
+		'type'=>'Xã',
+		'location'=>'22 05 56N, 103 20 14E',
+		'district_id'=>'098'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03226',
+		'name'=>'Tả Sìn Thàng',
+		'type'=>'Xã',
+		'location'=>'22 02 30N, 103 20 38E',
+		'district_id'=>'098'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03229',
+		'name'=>'Lao Xả Phình',
+		'type'=>'Xã',
+		'location'=>'22 00 01N, 103 17 47E',
+		'district_id'=>'098'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03232',
+		'name'=>'Tả Phìn',
+		'type'=>'Xã',
+		'location'=>'21 59 01N, 103 21 54E',
+		'district_id'=>'098'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03235',
+		'name'=>'Tủa Thàng',
+		'type'=>'Xã',
+		'location'=>'21 57 37N, 103 26 40E',
+		'district_id'=>'098'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03238',
+		'name'=>'Trung Thu',
+		'type'=>'Xã',
+		'location'=>'21 56 06N, 103 17 41E',
+		'district_id'=>'098'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03241',
+		'name'=>'Sính Phình',
+		'type'=>'Xã',
+		'location'=>'21 54 51N, 103 21 09E',
+		'district_id'=>'098'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03244',
+		'name'=>'Sáng Nhè',
+		'type'=>'Xã',
+		'location'=>'21 52 39N, 103 25 20E',
+		'district_id'=>'098'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03247',
+		'name'=>'Mường Đun',
+		'type'=>'Xã',
+		'location'=>'21 53 06N, 103 28 44E',
+		'district_id'=>'098'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03250',
+		'name'=>'Mường Báng',
+		'type'=>'Xã',
+		'location'=>'21 49 52N, 103 20 28E',
+		'district_id'=>'098'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03253',
+		'name'=>'Tuần Giáo',
+		'type'=>'Thị Trấn',
+		'location'=>'21 35 35N, 103 24 28E',
+		'district_id'=>'099'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03256',
+		'name'=>'Mường Ảng',
+		'type'=>'Thị Trấn',
+		'location'=>'21 31 32N, 103 13 01E',
+		'district_id'=>'102'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03259',
+		'name'=>'Phình Sáng',
+		'type'=>'Xã',
+		'location'=>'21 47 46N, 103 28 32E',
+		'district_id'=>'099'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03262',
+		'name'=>'Mùn Chung',
+		'type'=>'Xã',
+		'location'=>'21 45 28N, 103 23 28E',
+		'district_id'=>'099'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03265',
+		'name'=>'Ta Ma',
+		'type'=>'Xã',
+		'location'=>'21 43 40N, 103 32 20E',
+		'district_id'=>'099'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03268',
+		'name'=>'Mường Mùn',
+		'type'=>'Xã',
+		'location'=>'21 43 32N, 103 16 02E',
+		'district_id'=>'099'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03271',
+		'name'=>'Pú Nhung',
+		'type'=>'Xã',
+		'location'=>'21 42 04N, 103 27 30E',
+		'district_id'=>'099'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03274',
+		'name'=>'Quài Nưa',
+		'type'=>'Xã',
+		'location'=>'21 39 12N, 103 26 56E',
+		'district_id'=>'099'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03277',
+		'name'=>'Mường Thín',
+		'type'=>'Xã',
+		'location'=>'21 38 41N, 103 21 21E',
+		'district_id'=>'099'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03280',
+		'name'=>'Tỏa Tình',
+		'type'=>'Xã',
+		'location'=>'21 35 44N, 103 30 20E',
+		'district_id'=>'099'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03283',
+		'name'=>'Nà Sáy',
+		'type'=>'Xã',
+		'location'=>'21 37 07N, 103 09 38E',
+		'district_id'=>'099'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03286',
+		'name'=>'Mường Đăng',
+		'type'=>'Xã',
+		'location'=>'21 34 44N, 103 11 15E',
+		'district_id'=>'102'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03287',
+		'name'=>'Ngối Cáy',
+		'type'=>'Xã',
+		'location'=>'',
+		'district_id'=>'102'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03289',
+		'name'=>'Quài Cang',
+		'type'=>'Xã',
+		'location'=>'21 37 06N, 103 25 48E',
+		'district_id'=>'099'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03292',
+		'name'=>'Ẳng Tở',
+		'type'=>'Xã',
+		'location'=>'21 34 03N, 103 15 56E',
+		'district_id'=>'102'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03295',
+		'name'=>'Quài Tở',
+		'type'=>'Xã',
+		'location'=>'21 33 14N, 103 27 39E',
+		'district_id'=>'099'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03298',
+		'name'=>'Chiềng Sinh',
+		'type'=>'Xã',
+		'location'=>'21 31 49N, 103 22 21E',
+		'district_id'=>'099'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03301',
+		'name'=>'Búng Lao',
+		'type'=>'Xã',
+		'location'=>'21 29 29N, 103 20 20E',
+		'district_id'=>'102'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03302',
+		'name'=>'Xuân Lao',
+		'type'=>'Xã',
+		'location'=>'',
+		'district_id'=>'102'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03304',
+		'name'=>'Tênh Phông',
+		'type'=>'Xã',
+		'location'=>'21 29 52N, 103 25 33E',
+		'district_id'=>'099'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03307',
+		'name'=>'Ẳng Nưa',
+		'type'=>'Xã',
+		'location'=>'21 31 05N, 103 11 42E',
+		'district_id'=>'102'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03310',
+		'name'=>'Ẳng Cang',
+		'type'=>'Xã',
+		'location'=>'21 28 39N, 103 14 00E',
+		'district_id'=>'102'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03312',
+		'name'=>'Nặm Lịch',
+		'type'=>'Xã',
+		'location'=>'',
+		'district_id'=>'102'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03313',
+		'name'=>'Mường Lạn',
+		'type'=>'Xã',
+		'location'=>'21 27 12N, 103 16 09E',
+		'district_id'=>'102'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03316',
+		'name'=>'Nà Tấu',
+		'type'=>'Xã',
+		'location'=>'21 31 48N, 103 05 51E',
+		'district_id'=>'100'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03317',
+		'name'=>'Nà Nhạn',
+		'type'=>'Xã',
+		'location'=>'',
+		'district_id'=>'100'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03319',
+		'name'=>'Mường Pồn',
+		'type'=>'Xã',
+		'location'=>'21 33 06N, 102 59 28E',
+		'district_id'=>'100'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03322',
+		'name'=>'Thanh Nưa',
+		'type'=>'Xã',
+		'location'=>'21 27 13N, 102 57 13E',
+		'district_id'=>'100'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03325',
+		'name'=>'Mường Phăng',
+		'type'=>'Xã',
+		'location'=>'21 26 10N, 103 07 20E',
+		'district_id'=>'100'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03328',
+		'name'=>'Thanh Luông',
+		'type'=>'Xã',
+		'location'=>'21 24 44N, 102 57 40E',
+		'district_id'=>'100'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03331',
+		'name'=>'Thanh Hưng',
+		'type'=>'Xã',
+		'location'=>'21 22 50N, 102 57 17E',
+		'district_id'=>'100'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03334',
+		'name'=>'Thanh Xương',
+		'type'=>'Xã',
+		'location'=>'21 21 22N, 103 02 19E',
+		'district_id'=>'100'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03337',
+		'name'=>'Thanh Chăn',
+		'type'=>'Xã',
+		'location'=>'21 21 53N, 102 57 06E',
+		'district_id'=>'100'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03340',
+		'name'=>'Pa Thơm',
+		'type'=>'Xã',
+		'location'=>'21 18 26N, 102 55 43E',
+		'district_id'=>'100'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03343',
+		'name'=>'Thanh An',
+		'type'=>'Xã',
+		'location'=>'21 20 01N, 103 02 20E',
+		'district_id'=>'100'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03346',
+		'name'=>'Thanh Yên',
+		'type'=>'Xã',
+		'location'=>'21 20 14N, 102 58 37E',
+		'district_id'=>'100'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03349',
+		'name'=>'Noong Luống',
+		'type'=>'Xã',
+		'location'=>'21 18 04N, 102 58 33E',
+		'district_id'=>'100'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03352',
+		'name'=>'Noọng Hẹt',
+		'type'=>'Xã',
+		'location'=>'21 18 37N, 103 02 15E',
+		'district_id'=>'100'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03355',
+		'name'=>'Sam Mứn',
+		'type'=>'Xã',
+		'location'=>'21 16 03N, 103 00 10E',
+		'district_id'=>'100'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03358',
+		'name'=>'Núa Ngam',
+		'type'=>'Xã',
+		'location'=>'21 13 03N, 103 03 07E',
+		'district_id'=>'100'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03361',
+		'name'=>'Na Ư',
+		'type'=>'Xã',
+		'location'=>'21 11 58N, 102 56 04E',
+		'district_id'=>'100'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03364',
+		'name'=>'Mường Nhà',
+		'type'=>'Xã',
+		'location'=>'21 06 52N, 103 04 19E',
+		'district_id'=>'100'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03367',
+		'name'=>'Mường Lói',
+		'type'=>'Xã',
+		'location'=>'20 58 50N, 103 10 46E',
+		'district_id'=>'100'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03370',
+		'name'=>'Pu Nhi',
+		'type'=>'Xã',
+		'location'=>'21 20 45N, 103 09 07E',
+		'district_id'=>'101'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03371',
+		'name'=>'Nong U',
+		'type'=>'Xã',
+		'location'=>'',
+		'district_id'=>'101'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03373',
+		'name'=>'Xa Dung',
+		'type'=>'Xã',
+		'location'=>'21 22 48N, 103 19 06E',
+		'district_id'=>'101'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03376',
+		'name'=>'Keo Lôm',
+		'type'=>'Xã',
+		'location'=>'21 13 47N, 103 10 42E',
+		'district_id'=>'101'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03379',
+		'name'=>'Luân Giới',
+		'type'=>'Xã',
+		'location'=>'21 12 10N, 103 23 39E',
+		'district_id'=>'101'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03382',
+		'name'=>'Phình Giàng',
+		'type'=>'Xã',
+		'location'=>'21 07 36N, 103 12 45E',
+		'district_id'=>'101'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03383',
+		'name'=>'Pú Hồng',
+		'type'=>'Xã',
+		'location'=>'',
+		'district_id'=>'101'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03384',
+		'name'=>'Tìa Dình',
+		'type'=>'Xã',
+		'location'=>'',
+		'district_id'=>'101'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03385',
+		'name'=>'Háng Lìa',
+		'type'=>'Xã',
+		'location'=>'21 08 44N, 103 21 00E',
+		'district_id'=>'101'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03386',
+		'name'=>'Quyết Thắng',
+		'type'=>'Phường',
+		'location'=>'22 24 01N, 103 26 17E',
+		'district_id'=>'104'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03387',
+		'name'=>'Tân Phong',
+		'type'=>'Phường',
+		'location'=>'22 23 24N, 103 28 20E',
+		'district_id'=>'104'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03389',
+		'name'=>'Đoàn Kết',
+		'type'=>'Phường',
+		'location'=>'22 23 50N, 103 27 41E',
+		'district_id'=>'104'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03390',
+		'name'=>'Tam Đường',
+		'type'=>'Thị Trấn',
+		'location'=>'22 20 44N, 103 37 30E',
+		'district_id'=>'106'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03391',
+		'name'=>'Lả Nhì Thàng',
+		'type'=>'Xã',
+		'location'=>'',
+		'district_id'=>'109'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03394',
+		'name'=>'Thèn Sin',
+		'type'=>'Xã',
+		'location'=>'22 27 25N, 103 28 12E',
+		'district_id'=>'106'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03397',
+		'name'=>'Sùng Phài',
+		'type'=>'Xã',
+		'location'=>'22 25 46N, 103 26 57E',
+		'district_id'=>'106'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03400',
+		'name'=>'Tả Lèng',
+		'type'=>'Xã',
+		'location'=>'22 26 04N, 103 32 10E',
+		'district_id'=>'106'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03403',
+		'name'=>'Nậm Loỏng',
+		'type'=>'Xã',
+		'location'=>'22 23 52N, 103 23 55E',
+		'district_id'=>'104'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03405',
+		'name'=>'Giang Ma',
+		'type'=>'Xã',
+		'location'=>'',
+		'district_id'=>'106'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03406',
+		'name'=>'Hồ Thầu',
+		'type'=>'Xã',
+		'location'=>'22 23 00N, 103 34 14E',
+		'district_id'=>'106'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03409',
+		'name'=>'San Thàng',
+		'type'=>'Xã',
+		'location'=>'22 23 15N, 103 29 57E',
+		'district_id'=>'104'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03412',
+		'name'=>'Bình Lư',
+		'type'=>'Xã',
+		'location'=>'22 20 38N, 103 40 46E',
+		'district_id'=>'106'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03413',
+		'name'=>'Sơn Bình',
+		'type'=>'Xã',
+		'location'=>'',
+		'district_id'=>'106'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03415',
+		'name'=>'Nùng Nàng',
+		'type'=>'Xã',
+		'location'=>'22 21 22N, 103 27 09E',
+		'district_id'=>'106'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03418',
+		'name'=>'Bản Giang',
+		'type'=>'Xã',
+		'location'=>'22 19 06N, 103 30 44E',
+		'district_id'=>'106'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03421',
+		'name'=>'Bản Hon',
+		'type'=>'Xã',
+		'location'=>'22 18 27N, 103 33 30E',
+		'district_id'=>'106'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03424',
+		'name'=>'Bản Bo',
+		'type'=>'Xã',
+		'location'=>'22 16 56N, 103 43 03E',
+		'district_id'=>'106'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03427',
+		'name'=>'Nà Tăm',
+		'type'=>'Xã',
+		'location'=>'22 16 30N, 103 38 33E',
+		'district_id'=>'106'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03430',
+		'name'=>'Khun Há',
+		'type'=>'Xã',
+		'location'=>'22 13 47N, 103 35 46E',
+		'district_id'=>'106'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03433',
+		'name'=>'Mường Tè',
+		'type'=>'Thị Trấn',
+		'location'=>'22 22 46N, 102 48 40E',
+		'district_id'=>'107'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03436',
+		'name'=>'Thu Lũm',
+		'type'=>'Xã',
+		'location'=>'22 42 46N, 102 28 14E',
+		'district_id'=>'107'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03439',
+		'name'=>'Ka Lăng',
+		'type'=>'Xã',
+		'location'=>'22 38 45N, 102 29 10E',
+		'district_id'=>'107'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03442',
+		'name'=>'Pa Ủ',
+		'type'=>'Xã',
+		'location'=>'22 36 50N, 102 41 16E',
+		'district_id'=>'107'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03445',
+		'name'=>'Mường Tè',
+		'type'=>'Xã',
+		'location'=>'22 32 13N, 102 36 34E',
+		'district_id'=>'107'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03448',
+		'name'=>'Pa Vệ Sử',
+		'type'=>'Xã',
+		'location'=>'22 31 17N, 102 50 47E',
+		'district_id'=>'107'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03451',
+		'name'=>'Mù Cả',
+		'type'=>'Xã',
+		'location'=>'22 28 04N, 102 28 02E',
+		'district_id'=>'107'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03454',
+		'name'=>'Bun Tở',
+		'type'=>'Xã',
+		'location'=>'22 26 09N, 102 46 45E',
+		'district_id'=>'107'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03457',
+		'name'=>'Nậm Khao',
+		'type'=>'Xã',
+		'location'=>'22 26 36N, 102 40 31E',
+		'district_id'=>'107'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03460',
+		'name'=>'Hua Bun',
+		'type'=>'Xã',
+		'location'=>'22 22 18N, 103 00 54E',
+		'district_id'=>'107'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03463',
+		'name'=>'Tà Tổng',
+		'type'=>'Xã',
+		'location'=>'22 18 07N, 102 36 15E',
+		'district_id'=>'107'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03466',
+		'name'=>'Bun Nưa',
+		'type'=>'Xã',
+		'location'=>'22 21 51N, 102 54 19E',
+		'district_id'=>'107'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03469',
+		'name'=>'Kan Hồ',
+		'type'=>'Xã',
+		'location'=>'22 17 54N, 102 47 39E',
+		'district_id'=>'107'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03472',
+		'name'=>'Mường Mô',
+		'type'=>'Xã',
+		'location'=>'22 10 42N, 102 52 21E',
+		'district_id'=>'107'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03474',
+		'name'=>'Nậm Manh',
+		'type'=>'Xã',
+		'location'=>'',
+		'district_id'=>'107'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03475',
+		'name'=>'Nậm Hàng',
+		'type'=>'Xã',
+		'location'=>'22 09 20N, 103 01 01E',
+		'district_id'=>'107'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03478',
+		'name'=>'Sìn Hồ',
+		'type'=>'Thị Trấn',
+		'location'=>'22 21 05N, 103 15 07E',
+		'district_id'=>'108'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03481',
+		'name'=>'Lê Lợi',
+		'type'=>'Xã',
+		'location'=>'22 05 41N, 103 09 34E',
+		'district_id'=>'108'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03484',
+		'name'=>'Pú Đao',
+		'type'=>'Xã',
+		'location'=>'22 09 41N, 103 07 19E',
+		'district_id'=>'108'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03487',
+		'name'=>'Chăn Nưa',
+		'type'=>'Xã',
+		'location'=>'22 10 23N, 103 11 07E',
+		'district_id'=>'108'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03490',
+		'name'=>'Huổi Luông',
+		'type'=>'Xã',
+		'location'=>'22 32 36N, 103 12 33E',
+		'district_id'=>'109'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03493',
+		'name'=>'Pa Tần',
+		'type'=>'Xã',
+		'location'=>'22 28 25N, 103 09 12E',
+		'district_id'=>'108'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03496',
+		'name'=>'Phìn Hồ',
+		'type'=>'Xã',
+		'location'=>'22 27 33N, 103 16 43E',
+		'district_id'=>'108'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03499',
+		'name'=>'Hồng Thu',
+		'type'=>'Xã',
+		'location'=>'22 25 05N, 103 13 47E',
+		'district_id'=>'108'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03502',
+		'name'=>'Nậm Ban',
+		'type'=>'Xã',
+		'location'=>'22 22 32N, 103 06 30E',
+		'district_id'=>'108'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03505',
+		'name'=>'Phăng Sô Lin',
+		'type'=>'Xã',
+		'location'=>'22 21 41N, 103 16 04E',
+		'district_id'=>'108'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03508',
+		'name'=>'Ma Quai',
+		'type'=>'Xã',
+		'location'=>'22 22 04N, 103 21 23E',
+		'district_id'=>'108'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03511',
+		'name'=>'Tả Phìn',
+		'type'=>'Xã',
+		'location'=>'22 20 37N, 103 12 23E',
+		'district_id'=>'108'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03514',
+		'name'=>'Sà Dề Phìn',
+		'type'=>'Xã',
+		'location'=>'22 16 35N, 103 12 57E',
+		'district_id'=>'108'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03517',
+		'name'=>'Nậm Tăm',
+		'type'=>'Xã',
+		'location'=>'22 17 54N, 103 25 00E',
+		'district_id'=>'108'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03520',
+		'name'=>'Tả Ngảo',
+		'type'=>'Xã',
+		'location'=>'22 16 29N, 103 15 45E',
+		'district_id'=>'108'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03523',
+		'name'=>'Pu Sam Cáp',
+		'type'=>'Xã',
+		'location'=>'22 14 47N, 103 30 10E',
+		'district_id'=>'108'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03526',
+		'name'=>'Nậm Cha',
+		'type'=>'Xã',
+		'location'=>'22 13 12N, 103 23 38E',
+		'district_id'=>'108'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03529',
+		'name'=>'Làng Mô',
+		'type'=>'Xã',
+		'location'=>'22 12 45N, 103 15 49E',
+		'district_id'=>'108'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03532',
+		'name'=>'Noong Hẻo',
+		'type'=>'Xã',
+		'location'=>'22 12 04N, 103 30 16E',
+		'district_id'=>'108'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03535',
+		'name'=>'Nậm Mạ',
+		'type'=>'Xã',
+		'location'=>'22 09 49N, 103 22 22E',
+		'district_id'=>'108'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03538',
+		'name'=>'Căn Co',
+		'type'=>'Xã',
+		'location'=>'22 09 05N, 103 26 46E',
+		'district_id'=>'108'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03541',
+		'name'=>'Tủa Sín Chải',
+		'type'=>'Xã',
+		'location'=>'22 06 50N, 103 16 34E',
+		'district_id'=>'108'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03544',
+		'name'=>'Nậm Cuổi',
+		'type'=>'Xã',
+		'location'=>'22 07 06N, 103 31 35E',
+		'district_id'=>'108'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03547',
+		'name'=>'Nậm Hăn',
+		'type'=>'Xã',
+		'location'=>'22 02 00N, 103 28 41E',
+		'district_id'=>'108'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03549',
+		'name'=>'Phong Thổ',
+		'type'=>'Thị Trấn',
+		'location'=>'22 31 00N, 103 19 53E',
+		'district_id'=>'109'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03550',
+		'name'=>'Sì Lờ Lầu',
+		'type'=>'Xã',
+		'location'=>'22 46 22N, 103 21 34E',
+		'district_id'=>'109'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03553',
+		'name'=>'Mồ Sì San',
+		'type'=>'Xã',
+		'location'=>'22 45 01N, 103 23 22E',
+		'district_id'=>'109'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03556',
+		'name'=>'Ma Li Chải',
+		'type'=>'Xã',
+		'location'=>'22 43 46N, 103 18 13E',
+		'district_id'=>'109'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03559',
+		'name'=>'Pa Vây Sử',
+		'type'=>'Xã',
+		'location'=>'22 43 28N, 103 23 46E',
+		'district_id'=>'109'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03562',
+		'name'=>'Vàng Ma Chải',
+		'type'=>'Xã',
+		'location'=>'22 42 28N, 103 19 01E',
+		'district_id'=>'109'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03565',
+		'name'=>'Tông Qua Lìn',
+		'type'=>'Xã',
+		'location'=>'22 41 19N, 103 23 57E',
+		'district_id'=>'109'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03568',
+		'name'=>'Mù Sang',
+		'type'=>'Xã',
+		'location'=>'22 39 21N, 103 16 55E',
+		'district_id'=>'109'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03571',
+		'name'=>'Dào San',
+		'type'=>'Xã',
+		'location'=>'22 39 21N, 103 23 24E',
+		'district_id'=>'109'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03574',
+		'name'=>'Ma Ly Pho',
+		'type'=>'Xã',
+		'location'=>'22 37 29N, 103 13 38E',
+		'district_id'=>'109'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03577',
+		'name'=>'Bản Lang',
+		'type'=>'Xã',
+		'location'=>'22 36 17N, 103 24 45E',
+		'district_id'=>'109'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03580',
+		'name'=>'Hoang Thèn',
+		'type'=>'Xã',
+		'location'=>'22 35 47N, 103 18 09E',
+		'district_id'=>'109'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03583',
+		'name'=>'Khổng Lào',
+		'type'=>'Xã',
+		'location'=>'22 34 26N, 103 20 52E',
+		'district_id'=>'109'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03586',
+		'name'=>'Nậm Xe',
+		'type'=>'Xã',
+		'location'=>'22 32 59N, 103 28 26E',
+		'district_id'=>'109'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03589',
+		'name'=>'Mường So',
+		'type'=>'Xã',
+		'location'=>'22 30 58N, 103 21 12E',
+		'district_id'=>'109'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03592',
+		'name'=>'Sin Suối Hồ',
+		'type'=>'Xã',
+		'location'=>'22 32 23N, 103 31 47E',
+		'district_id'=>'109'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03595',
+		'name'=>'Than Uyên',
+		'type'=>'Thị Trấn',
+		'location'=>'21 58 07N, 103 53 17E',
+		'district_id'=>'110'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03598',
+		'name'=>'Tân Uyên',
+		'type'=>'Thị Trấn',
+		'location'=>'22 11 57N, 103 47 06E',
+		'district_id'=>'111'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03601',
+		'name'=>'Mường Khoa',
+		'type'=>'Xã',
+		'location'=>'22 13 15N, 103 43 02E',
+		'district_id'=>'111'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03602',
+		'name'=>'Phúc Khoa',
+		'type'=>'Xã',
+		'location'=>'',
+		'district_id'=>'111'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03604',
+		'name'=>'Thân Thuộc',
+		'type'=>'Xã',
+		'location'=>'22 09 53N, 103 43 51E',
+		'district_id'=>'111'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03605',
+		'name'=>'Trung Đồng',
+		'type'=>'Xã',
+		'location'=>'',
+		'district_id'=>'111'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03607',
+		'name'=>'Hố Mít',
+		'type'=>'Xã',
+		'location'=>'22 07 42N, 103 53 31E',
+		'district_id'=>'111'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03610',
+		'name'=>'Nậm Cần',
+		'type'=>'Xã',
+		'location'=>'22 06 19N, 103 41 39E',
+		'district_id'=>'111'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03613',
+		'name'=>'Nậm Sỏ',
+		'type'=>'Xã',
+		'location'=>'22 04 30N, 103 35 38E',
+		'district_id'=>'111'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03616',
+		'name'=>'Pắc Ta',
+		'type'=>'Xã',
+		'location'=>'22 04 55N, 103 50 15E',
+		'district_id'=>'111'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03618',
+		'name'=>'Phúc Than',
+		'type'=>'Xã',
+		'location'=>'',
+		'district_id'=>'110'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03619',
+		'name'=>'Mường Than',
+		'type'=>'Xã',
+		'location'=>'22 00 44N, 103 55 15E',
+		'district_id'=>'110'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03622',
+		'name'=>'Tà Mít',
+		'type'=>'Xã',
+		'location'=>'22 00 29N, 103 42 58E',
+		'district_id'=>'111'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03625',
+		'name'=>'Mường Mít',
+		'type'=>'Xã',
+		'location'=>'22 00 38N, 103 49 24E',
+		'district_id'=>'110'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03628',
+		'name'=>'Pha Mu',
+		'type'=>'Xã',
+		'location'=>'21 55 24N, 103 45 01E',
+		'district_id'=>'110'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03631',
+		'name'=>'Mường Cang',
+		'type'=>'Xã',
+		'location'=>'21 56 29N, 103 52 53E',
+		'district_id'=>'110'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03632',
+		'name'=>'Hua Nà',
+		'type'=>'Xã',
+		'location'=>'',
+		'district_id'=>'110'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03634',
+		'name'=>'Tà Hừa',
+		'type'=>'Xã',
+		'location'=>'21 52 30N, 103 45 45E',
+		'district_id'=>'110'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03637',
+		'name'=>'Mường Kim',
+		'type'=>'Xã',
+		'location'=>'21 50 50N, 103 52 53E',
+		'district_id'=>'110'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03638',
+		'name'=>'Tà Mung',
+		'type'=>'Xã',
+		'location'=>'',
+		'district_id'=>'110'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03640',
+		'name'=>'Tà Gia',
+		'type'=>'Xã',
+		'location'=>'21 47 52N, 103 48 41E',
+		'district_id'=>'110'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03643',
+		'name'=>'Khoen On',
+		'type'=>'Xã',
+		'location'=>'21 46 16N, 103 53 30E',
+		'district_id'=>'110'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03646',
+		'name'=>'Chiềng Lề',
+		'type'=>'Phường',
+		'location'=>'21 20 39N, 103 54 20E',
+		'district_id'=>'116'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03649',
+		'name'=>'Tô Hiệu',
+		'type'=>'Phường',
+		'location'=>'21 19 46N, 103 54 43E',
+		'district_id'=>'116'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03652',
+		'name'=>'Quyết Thắng',
+		'type'=>'Phường',
+		'location'=>'21 19 44N, 103 55 46E',
+		'district_id'=>'116'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03655',
+		'name'=>'Quyết Tâm',
+		'type'=>'Phường',
+		'location'=>'21 18 28N, 103 55 44E',
+		'district_id'=>'116'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03658',
+		'name'=>'Chiềng Cọ',
+		'type'=>'Xã',
+		'location'=>'21 18 41N, 103 50 41E',
+		'district_id'=>'116'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03661',
+		'name'=>'Chiềng Đen',
+		'type'=>'Xã',
+		'location'=>'21 23 39N, 103 51 23E',
+		'district_id'=>'116'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03664',
+		'name'=>'Chiềng Xôm',
+		'type'=>'Xã',
+		'location'=>'21 22 57N, 103 55 49E',
+		'district_id'=>'116'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03667',
+		'name'=>'Chiềng An',
+		'type'=>'Phường',
+		'location'=>'21 20 50N, 103 54 23E',
+		'district_id'=>'116'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03670',
+		'name'=>'Chiềng Cơi',
+		'type'=>'Xã',
+		'location'=>'21 18 41N, 103 54 37E',
+		'district_id'=>'116'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03673',
+		'name'=>'Chiềng Ngần',
+		'type'=>'Xã',
+		'location'=>'21 18 26N, 103 58 56E',
+		'district_id'=>'116'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03676',
+		'name'=>'Hua La',
+		'type'=>'Xã',
+		'location'=>'21 16 49N, 103 53 35E',
+		'district_id'=>'116'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03679',
+		'name'=>'Chiềng Sinh',
+		'type'=>'Phường',
+		'location'=>'21 16 56N, 103 57 58E',
+		'district_id'=>'116'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03682',
+		'name'=>'Mường Chiên',
+		'type'=>'Xã',
+		'location'=>'21 51 29N, 103 35 06E',
+		'district_id'=>'118'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03685',
+		'name'=>'Cà Nàng',
+		'type'=>'Xã',
+		'location'=>'21 56 44N, 103 33 29E',
+		'district_id'=>'118'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03688',
+		'name'=>'Chiềng Khay',
+		'type'=>'Xã',
+		'location'=>'21 55 04N, 103 39 09E',
+		'district_id'=>'118'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03691',
+		'name'=>'Pha Khinh',
+		'type'=>'Xã',
+		'location'=>'21 47 23N, 103 35 25E',
+		'district_id'=>'118'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03694',
+		'name'=>'Mường Giôn',
+		'type'=>'Xã',
+		'location'=>'21 44 56N, 103 43 16E',
+		'district_id'=>'118'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03697',
+		'name'=>'Pắc Ma',
+		'type'=>'Xã',
+		'location'=>'21 45 15N, 103 36 53E',
+		'district_id'=>'118'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03700',
+		'name'=>'Chiềng Ơn',
+		'type'=>'Xã',
+		'location'=>'21 39 21N, 103 44 56E',
+		'district_id'=>'118'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03703',
+		'name'=>'Mường Giàng',
+		'type'=>'Xã',
+		'location'=>'21 38 54N, 103 35 35E',
+		'district_id'=>'118'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03706',
+		'name'=>'Chiềng Bằng',
+		'type'=>'Xã',
+		'location'=>'21 38 47N, 103 40 12E',
+		'district_id'=>'118'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03709',
+		'name'=>'Mường Sại',
+		'type'=>'Xã',
+		'location'=>'21 37 33N, 103 42 28E',
+		'district_id'=>'118'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03712',
+		'name'=>'Nậm Ét',
+		'type'=>'Xã',
+		'location'=>'21 34 20N, 103 45 36E',
+		'district_id'=>'118'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03715',
+		'name'=>'Liệp Muội',
+		'type'=>'Xã',
+		'location'=>'21 34 14N, 103 41 48E',
+		'district_id'=>'118'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03718',
+		'name'=>'Chiềng Khoang',
+		'type'=>'Xã',
+		'location'=>'21 33 26N, 103 41 00E',
+		'district_id'=>'118'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03721',
+		'name'=>'Thuận Châu',
+		'type'=>'Thị Trấn',
+		'location'=>'21 25 43N, 103 40 45E',
+		'district_id'=>'119'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03724',
+		'name'=>'Phỏng Lái',
+		'type'=>'Xã',
+		'location'=>'21 34 41N, 103 35 38E',
+		'district_id'=>'119'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03727',
+		'name'=>'Mường É',
+		'type'=>'Xã',
+		'location'=>'21 30 40N, 103 32 43E',
+		'district_id'=>'119'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03730',
+		'name'=>'Chiềng Pha',
+		'type'=>'Xã',
+		'location'=>'21 30 29N, 103 38 22E',
+		'district_id'=>'119'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03733',
+		'name'=>'Chiềng La',
+		'type'=>'Xã',
+		'location'=>'21 30 44N, 103 41 37E',
+		'district_id'=>'119'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03736',
+		'name'=>'Chiềng Ngàm',
+		'type'=>'Xã',
+		'location'=>'21 30 11N, 103 45 37E',
+		'district_id'=>'119'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03739',
+		'name'=>'Liệp Tè',
+		'type'=>'Xã',
+		'location'=>'21 30 48N, 103 53 39E',
+		'district_id'=>'119'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03742',
+		'name'=>'É Tòng',
+		'type'=>'Xã',
+		'location'=>'21 28 29N, 103 29 06E',
+		'district_id'=>'119'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03745',
+		'name'=>'Phỏng Lập',
+		'type'=>'Xã',
+		'location'=>'21 28 17N, 103 35 40E',
+		'district_id'=>'119'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03748',
+		'name'=>'Phỏng Lặng',
+		'type'=>'Xã',
+		'location'=>'21 27 38N, 103 39 55E',
+		'district_id'=>'119'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03751',
+		'name'=>'Chiềng Ly',
+		'type'=>'Xã',
+		'location'=>'21 27 43N, 103 42 07E',
+		'district_id'=>'119'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03754',
+		'name'=>'Nong Lay',
+		'type'=>'Xã',
+		'location'=>'21 29 10N, 103 44 09E',
+		'district_id'=>'119'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03757',
+		'name'=>'Mường Khiêng',
+		'type'=>'Xã',
+		'location'=>'21 29 11N, 103 53 07E',
+		'district_id'=>'119'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03760',
+		'name'=>'Mường Bám',
+		'type'=>'Xã',
+		'location'=>'21 22 34N, 103 23 06E',
+		'district_id'=>'119'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03763',
+		'name'=>'Long Hẹ',
+		'type'=>'Xã',
+		'location'=>'21 25 10N, 103 30 20E',
+		'district_id'=>'119'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03766',
+		'name'=>'Chiềng Bôm',
+		'type'=>'Xã',
+		'location'=>'21 24 24N, 103 37 47E',
+		'district_id'=>'119'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03769',
+		'name'=>'Thôn Mòn',
+		'type'=>'Xã',
+		'location'=>'21 25 11N, 103 43 12E',
+		'district_id'=>'119'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03772',
+		'name'=>'Tòng Lệnh',
+		'type'=>'Xã',
+		'location'=>'21 26 20N, 103 44 04E',
+		'district_id'=>'119'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03775',
+		'name'=>'Tòng Cọ',
+		'type'=>'Xã',
+		'location'=>'21 25 56N, 103 47 12E',
+		'district_id'=>'119'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03778',
+		'name'=>'Bó Mười',
+		'type'=>'Xã',
+		'location'=>'21 27 48N, 103 49 25E',
+		'district_id'=>'119'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03781',
+		'name'=>'Co Mạ',
+		'type'=>'Xã',
+		'location'=>'21 20 09N, 103 31 12E',
+		'district_id'=>'119'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03784',
+		'name'=>'Púng Tra',
+		'type'=>'Xã',
+		'location'=>'21 23 10N, 103 41 09E',
+		'district_id'=>'119'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03787',
+		'name'=>'Chiềng Pấc',
+		'type'=>'Xã',
+		'location'=>'21 23 59N, 103 46 02E',
+		'district_id'=>'119'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03790',
+		'name'=>'Nậm Lầu',
+		'type'=>'Xã',
+		'location'=>'21 19 18N, 103 42 18E',
+		'district_id'=>'119'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03793',
+		'name'=>'Bon Phặng',
+		'type'=>'Xã',
+		'location'=>'21 22 00N, 103 46 23E',
+		'district_id'=>'119'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03796',
+		'name'=>'Co Tòng',
+		'type'=>'Xã',
+		'location'=>'21 18 08N, 103 30 34E',
+		'district_id'=>'119'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03799',
+		'name'=>'Muội Nọi',
+		'type'=>'Xã',
+		'location'=>'21 19 48N, 103 48 17E',
+		'district_id'=>'119'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03802',
+		'name'=>'Pá Lông',
+		'type'=>'Xã',
+		'location'=>'21 15 06N, 103 32 27E',
+		'district_id'=>'119'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03805',
+		'name'=>'Bản Lầm',
+		'type'=>'Xã',
+		'location'=>'21 15 26N, 103 47 23E',
+		'district_id'=>'119'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03808',
+		'name'=>'Ít Ong',
+		'type'=>'Thị Trấn',
+		'location'=>'21 30 36N, 104 00 09E',
+		'district_id'=>'120'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03811',
+		'name'=>'Nậm Giôn',
+		'type'=>'Xã',
+		'location'=>'21 38 29N, 103 49 23E',
+		'district_id'=>'120'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03814',
+		'name'=>'Chiềng Lao',
+		'type'=>'Xã',
+		'location'=>'21 38 36N, 103 53 31E',
+		'district_id'=>'120'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03817',
+		'name'=>'Hua Trai',
+		'type'=>'Xã',
+		'location'=>'21 37 26N, 104 00 52E',
+		'district_id'=>'120'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03820',
+		'name'=>'Ngọc Chiến',
+		'type'=>'Xã',
+		'location'=>'21 35 48N, 104 10 48E',
+		'district_id'=>'120'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03823',
+		'name'=>'Mường Trai',
+		'type'=>'Xã',
+		'location'=>'21 34 16N, 103 56 00E',
+		'district_id'=>'120'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03826',
+		'name'=>'Nậm Păm',
+		'type'=>'Xã',
+		'location'=>'21 33 59N, 104 04 43E',
+		'district_id'=>'120'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03829',
+		'name'=>'Chiềng Muôn',
+		'type'=>'Xã',
+		'location'=>'21 31 27N, 104 07 52E',
+		'district_id'=>'120'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03832',
+		'name'=>'Chiềng Ân',
+		'type'=>'Xã',
+		'location'=>'21 30 14N, 104 12 56E',
+		'district_id'=>'120'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03835',
+		'name'=>'Pi Toong',
+		'type'=>'Xã',
+		'location'=>'21 32 53N, 103 59 19E',
+		'district_id'=>'120'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03838',
+		'name'=>'Chiềng Công',
+		'type'=>'Xã',
+		'location'=>'21 26 46N, 104 13 49E',
+		'district_id'=>'120'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03841',
+		'name'=>'Tạ Bú',
+		'type'=>'Xã',
+		'location'=>'21 26 37N, 104 02 48E',
+		'district_id'=>'120'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03844',
+		'name'=>'Chiềng San',
+		'type'=>'Xã',
+		'location'=>'21 28 41N, 104 04 36E',
+		'district_id'=>'120'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03847',
+		'name'=>'Mường Bú',
+		'type'=>'Xã',
+		'location'=>'21 24 39N, 103 59 46E',
+		'district_id'=>'120'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03850',
+		'name'=>'Chiềng Hoa',
+		'type'=>'Xã',
+		'location'=>'21 25 13N, 104 08 37E',
+		'district_id'=>'120'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03853',
+		'name'=>'Mường Chùm',
+		'type'=>'Xã',
+		'location'=>'21 21 28N, 104 06 28E',
+		'district_id'=>'120'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03856',
+		'name'=>'Bắc Yên',
+		'type'=>'Thị Trấn',
+		'location'=>'21 14 30N, 104 26 31E',
+		'district_id'=>'121'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03859',
+		'name'=>'Phiêng Ban',
+		'type'=>'Xã',
+		'location'=>'21 14 35N, 104 23 52E',
+		'district_id'=>'121'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03862',
+		'name'=>'Hang Chú',
+		'type'=>'Xã',
+		'location'=>'21 22 08N, 104 17 22E',
+		'district_id'=>'121'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03865',
+		'name'=>'Xín Vàng',
+		'type'=>'Xã',
+		'location'=>'21 20 17N, 104 21 22E',
+		'district_id'=>'121'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03868',
+		'name'=>'Tà Xùa',
+		'type'=>'Xã',
+		'location'=>'21 19 37N, 104 29 25E',
+		'district_id'=>'121'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03869',
+		'name'=>'Háng Đồng',
+		'type'=>'Xã',
+		'location'=>'',
+		'district_id'=>'121'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03871',
+		'name'=>'Bắc Ngà',
+		'type'=>'Xã',
+		'location'=>'21 20 03N, 104 12 54E',
+		'district_id'=>'121'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03874',
+		'name'=>'Làng Chếu',
+		'type'=>'Xã',
+		'location'=>'21 17 05N, 104 22 10E',
+		'district_id'=>'121'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03877',
+		'name'=>'Chim Vàn',
+		'type'=>'Xã',
+		'location'=>'21 15 47N, 104 17 48E',
+		'district_id'=>'121'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03880',
+		'name'=>'Mường Khoa',
+		'type'=>'Xã',
+		'location'=>'21 11 24N, 104 17 23E',
+		'district_id'=>'121'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03883',
+		'name'=>'Song Pe',
+		'type'=>'Xã',
+		'location'=>'21 10 09N, 104 25 56E',
+		'district_id'=>'121'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03886',
+		'name'=>'Hồng Ngài',
+		'type'=>'Xã',
+		'location'=>'21 10 01N, 104 28 38E',
+		'district_id'=>'121'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03889',
+		'name'=>'Tạ Khoa',
+		'type'=>'Xã',
+		'location'=>'21 09 16N, 104 22 44E',
+		'district_id'=>'121'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03890',
+		'name'=>'Hua Nhàn',
+		'type'=>'Xã',
+		'location'=>'',
+		'district_id'=>'121'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03892',
+		'name'=>'Phiêng Kôn',
+		'type'=>'Xã',
+		'location'=>'21 05 07N, 104 25 46E',
+		'district_id'=>'121'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03895',
+		'name'=>'Chiềng Sại',
+		'type'=>'Xã',
+		'location'=>'21 04 11N, 104 30 24E',
+		'district_id'=>'121'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03898',
+		'name'=>'Phù Yên',
+		'type'=>'Thị Trấn',
+		'location'=>'21 15 51N, 104 38 37E',
+		'district_id'=>'122'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03901',
+		'name'=>'Suối Tọ',
+		'type'=>'Xã',
+		'location'=>'21 19 21N, 104 35 02E',
+		'district_id'=>'122'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03904',
+		'name'=>'Mường Thải',
+		'type'=>'Xã',
+		'location'=>'21 20 46N, 104 41 30E',
+		'district_id'=>'122'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03907',
+		'name'=>'Mường Cơi',
+		'type'=>'Xã',
+		'location'=>'21 19 11N, 104 45 20E',
+		'district_id'=>'122'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03910',
+		'name'=>'Quang Huy',
+		'type'=>'Xã',
+		'location'=>'21 18 10N, 104 38 43E',
+		'district_id'=>'122'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03913',
+		'name'=>'Huy Bắc',
+		'type'=>'Xã',
+		'location'=>'21 15 45N, 104 36 14E',
+		'district_id'=>'122'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03916',
+		'name'=>'Huy Thượng',
+		'type'=>'Xã',
+		'location'=>'21 16 41N, 104 41 34E',
+		'district_id'=>'122'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03919',
+		'name'=>'Tân Lang',
+		'type'=>'Xã',
+		'location'=>'21 16 10N, 104 46 11E',
+		'district_id'=>'122'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03922',
+		'name'=>'Gia Phù',
+		'type'=>'Xã',
+		'location'=>'21 12 21N, 104 34 28E',
+		'district_id'=>'122'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03925',
+		'name'=>'Tường Phù',
+		'type'=>'Xã',
+		'location'=>'21 12 38N, 104 36 52E',
+		'district_id'=>'122'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03928',
+		'name'=>'Huy Hạ',
+		'type'=>'Xã',
+		'location'=>'21 13 46N, 104 38 45E',
+		'district_id'=>'122'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03931',
+		'name'=>'Huy Tân',
+		'type'=>'Xã',
+		'location'=>'21 14 36N, 104 41 17E',
+		'district_id'=>'122'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03934',
+		'name'=>'Mường Lang',
+		'type'=>'Xã',
+		'location'=>'21 14 22N, 104 47 35E',
+		'district_id'=>'122'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03937',
+		'name'=>'Suối Bau',
+		'type'=>'Xã',
+		'location'=>'21 11 20N, 104 32 28E',
+		'district_id'=>'122'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03940',
+		'name'=>'Huy Tường',
+		'type'=>'Xã',
+		'location'=>'21 11 55N, 104 40 16E',
+		'district_id'=>'122'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03943',
+		'name'=>'Mường Do',
+		'type'=>'Xã',
+		'location'=>'21 11 45N, 104 47 02E',
+		'district_id'=>'122'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03946',
+		'name'=>'Sập Xa',
+		'type'=>'Xã',
+		'location'=>'21 09 23N, 104 32 14E',
+		'district_id'=>'122'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03949',
+		'name'=>'Tường Thượng',
+		'type'=>'Xã',
+		'location'=>'21 10 35N, 104 37 49E',
+		'district_id'=>'122'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03952',
+		'name'=>'Tường Tiến',
+		'type'=>'Xã',
+		'location'=>'21 09 03N, 104 40 29E',
+		'district_id'=>'122'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03955',
+		'name'=>'Tường Phong',
+		'type'=>'Xã',
+		'location'=>'21 08 23N, 104 42 17E',
+		'district_id'=>'122'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03958',
+		'name'=>'Tường Hạ',
+		'type'=>'Xã',
+		'location'=>'21 08 34N, 104 38 10E',
+		'district_id'=>'122'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03961',
+		'name'=>'Kim Bon',
+		'type'=>'Xã',
+		'location'=>'21 07 21N, 104 36 52E',
+		'district_id'=>'122'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03964',
+		'name'=>'Mường Bang',
+		'type'=>'Xã',
+		'location'=>'21 07 02N, 104 49 07E',
+		'district_id'=>'122'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03967',
+		'name'=>'Đá Đỏ',
+		'type'=>'Xã',
+		'location'=>'21 05 12N, 104 33 48E',
+		'district_id'=>'122'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03970',
+		'name'=>'Tân Phong',
+		'type'=>'Xã',
+		'location'=>'21 05 29N, 104 43 06E',
+		'district_id'=>'122'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03973',
+		'name'=>'Nam Phong',
+		'type'=>'Xã',
+		'location'=>'21 04 19N, 104 47 59E',
+		'district_id'=>'122'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03976',
+		'name'=>'Bắc Phong',
+		'type'=>'Xã',
+		'location'=>'21 03 40N, 104 39 08E',
+		'district_id'=>'122'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03979',
+		'name'=>'Mộc Châu',
+		'type'=>'Thị Trấn',
+		'location'=>'20 51 12N, 104 37 01E',
+		'district_id'=>'123'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03982',
+		'name'=>'Nt Mộc Châu',
+		'type'=>'Thị Trấn',
+		'location'=>'20 52 18N, 104 42 28E',
+		'district_id'=>'123'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03985',
+		'name'=>'Chiềng Sơn',
+		'type'=>'Xã',
+		'location'=>'20 43 49N, 104 34 35E',
+		'district_id'=>'123'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03988',
+		'name'=>'Tân Hợp',
+		'type'=>'Xã',
+		'location'=>'21 00 55N, 104 37 07E',
+		'district_id'=>'123'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03991',
+		'name'=>'Qui Hướng',
+		'type'=>'Xã',
+		'location'=>'21 00 36N, 104 44 42E',
+		'district_id'=>'123'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03994',
+		'name'=>'Suối Bàng',
+		'type'=>'Xã',
+		'location'=>'20 58 53N, 104 48 30E',
+		'district_id'=>'123'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'03997',
+		'name'=>'Tân Lập',
+		'type'=>'Xã',
+		'location'=>'20 57 14N, 104 35 12E',
+		'district_id'=>'123'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'04000',
+		'name'=>'Nà Mường',
+		'type'=>'Xã',
+		'location'=>'20 57 06N, 104 43 32E',
+		'district_id'=>'123'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'04003',
+		'name'=>'Tà Lai',
+		'type'=>'Xã',
+		'location'=>'20 57 37N, 104 40 50E',
+		'district_id'=>'123'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'04006',
+		'name'=>'Song Khủa',
+		'type'=>'Xã',
+		'location'=>'20 56 32N, 104 53 20E',
+		'district_id'=>'123'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'04009',
+		'name'=>'Liên Hoà',
+		'type'=>'Xã',
+		'location'=>'20 59  28N, 104 52 31E',
+		'district_id'=>'123'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'04012',
+		'name'=>'Chiềng Hắc',
+		'type'=>'Xã',
+		'location'=>'20 54 46N, 104 31 48E',
+		'district_id'=>'123'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'04015',
+		'name'=>'Hua Păng',
+		'type'=>'Xã',
+		'location'=>'20 54 30N, 104 46 20E',
+		'district_id'=>'123'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'04018',
+		'name'=>'Tô Múa',
+		'type'=>'Xã',
+		'location'=>'20 53 33N, 104 50 52E',
+		'district_id'=>'123'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'04021',
+		'name'=>'Mường Tè',
+		'type'=>'Xã',
+		'location'=>'20 53 41N, 104 54 57E',
+		'district_id'=>'123'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'04024',
+		'name'=>'Chiềng Khừa',
+		'type'=>'Xã',
+		'location'=>'20 49 57N, 104 28 36E',
+		'district_id'=>'123'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'04027',
+		'name'=>'Mường Sang',
+		'type'=>'Xã',
+		'location'=>'20 48 56N, 104 35 19E',
+		'district_id'=>'123'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'04030',
+		'name'=>'Đông Sang',
+		'type'=>'Xã',
+		'location'=>'20 50 15N, 104 38 13E',
+		'district_id'=>'123'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'04033',
+		'name'=>'Phiêng Luông',
+		'type'=>'Xã',
+		'location'=>'20 50 21N, 104 43 11E',
+		'district_id'=>'123'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'04036',
+		'name'=>'Chiềng Khoa',
+		'type'=>'Xã',
+		'location'=>'20 49 50N, 104 49 18E',
+		'district_id'=>'123'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'04039',
+		'name'=>'Mường Men',
+		'type'=>'Xã',
+		'location'=>'20 49 47N, 104 54 47E',
+		'district_id'=>'123'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'04042',
+		'name'=>'Quang Minh',
+		'type'=>'Xã',
+		'location'=>'20 51 47N, 104 57 23E',
+		'district_id'=>'123'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'04045',
+		'name'=>'Lóng Sập',
+		'type'=>'Xã',
+		'location'=>'20 46 42N, 104 31 38E',
+		'district_id'=>'123'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'04048',
+		'name'=>'Vân Hồ',
+		'type'=>'Xã',
+		'location'=>'20 47 09N, 104 44 13E',
+		'district_id'=>'123'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'04051',
+		'name'=>'Lóng Luông',
+		'type'=>'Xã',
+		'location'=>'20 46 34N, 104 51 49E',
+		'district_id'=>'123'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'04054',
+		'name'=>'Chiềng Yên',
+		'type'=>'Xã',
+		'location'=>'20 46 16N, 104 57 36E',
+		'district_id'=>'123'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'04056',
+		'name'=>'Chiềng Xuân',
+		'type'=>'Xã',
+		'location'=>'',
+		'district_id'=>'123'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'04057',
+		'name'=>'Xuân Nha',
+		'type'=>'Xã',
+		'location'=>'20 40 21N, 104 44 32E',
+		'district_id'=>'123'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'04058',
+		'name'=>'Tân Xuân',
+		'type'=>'Xã',
+		'location'=>'',
+		'district_id'=>'123'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'04060',
+		'name'=>'Yên Châu',
+		'type'=>'Thị Trấn',
+		'location'=>'21 02 49N, 104 17 52E',
+		'district_id'=>'124'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'04063',
+		'name'=>'Chiềng Đông',
+		'type'=>'Xã',
+		'location'=>'21 08 20N, 104 15 10E',
+		'district_id'=>'124'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'04066',
+		'name'=>'Sập Vạt',
+		'type'=>'Xã',
+		'location'=>'21 04 56N, 104 20 26E',
+		'district_id'=>'124'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'04069',
+		'name'=>'Chiềng Sàng',
+		'type'=>'Xã',
+		'location'=>'21 04 19N, 104 14 09E',
+		'district_id'=>'124'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'04072',
+		'name'=>'Chiềng Pằn',
+		'type'=>'Xã',
+		'location'=>'21 03 24N, 104 15 53E',
+		'district_id'=>'124'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'04075',
+		'name'=>'Viêng Lán',
+		'type'=>'Xã',
+		'location'=>'21 02 56N, 104 17 09E',
+		'district_id'=>'124'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'04078',
+		'name'=>'Chiềng Hặc',
+		'type'=>'Xã',
+		'location'=>'21 00 56N, 104 23 42E',
+		'district_id'=>'124'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'04081',
+		'name'=>'Mường Lựm',
+		'type'=>'Xã',
+		'location'=>'21 00 03N, 104 29 36E',
+		'district_id'=>'124'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'04084',
+		'name'=>'Chiềng On',
+		'type'=>'Xã',
+		'location'=>'20 58 42N, 104 10 41E',
+		'district_id'=>'124'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'04087',
+		'name'=>'Yên Sơn',
+		'type'=>'Xã',
+		'location'=>'21 01 57N, 104 11 51E',
+		'district_id'=>'124'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'04090',
+		'name'=>'Chiềng Khoi',
+		'type'=>'Xã',
+		'location'=>'21 00 28N, 104 18 33E',
+		'district_id'=>'124'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'04093',
+		'name'=>'Tú Nang',
+		'type'=>'Xã',
+		'location'=>'20 56 44N, 104 26 20E',
+		'district_id'=>'124'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'04096',
+		'name'=>'Lóng Phiêng',
+		'type'=>'Xã',
+		'location'=>'20 55 17N, 104 22 18E',
+		'district_id'=>'124'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'04099',
+		'name'=>'Phiêng Khoài',
+		'type'=>'Xã',
+		'location'=>'20 57 31N, 104 16 53E',
+		'district_id'=>'124'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'04102',
+		'name'=>'Chiềng Tương',
+		'type'=>'Xã',
+		'location'=>'20 51 04N, 104 22 54E',
+		'district_id'=>'124'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'04105',
+		'name'=>'Hát Lót',
+		'type'=>'Thị Trấn',
+		'location'=>'21 11 35N, 104 06 07E',
+		'district_id'=>'125'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'04108',
+		'name'=>'Chiềng Sung',
+		'type'=>'Xã',
+		'location'=>'21 19 36N, 104 04 46E',
+		'district_id'=>'125'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'04111',
+		'name'=>'Mường Bằng',
+		'type'=>'Xã',
+		'location'=>'21 18 10N, 104 02 16E',
+		'district_id'=>'125'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'04114',
+		'name'=>'Chiềng Chăn',
+		'type'=>'Xã',
+		'location'=>'21 18 03N, 104 09 49E',
+		'district_id'=>'125'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'04117',
+		'name'=>'Mương Tranh',
+		'type'=>'Xã',
+		'location'=>'21 14 15N, 103 50 48E',
+		'district_id'=>'125'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'04120',
+		'name'=>'Chiềng Ban',
+		'type'=>'Xã',
+		'location'=>'21 14 20N, 103 55 57E',
+		'district_id'=>'125'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'04123',
+		'name'=>'Chiềng Mung',
+		'type'=>'Xã',
+		'location'=>'21 12 34N, 103 59 54E',
+		'district_id'=>'125'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'04126',
+		'name'=>'Mường Bon',
+		'type'=>'Xã',
+		'location'=>'21 14 27N, 104 04 18E',
+		'district_id'=>'125'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'04129',
+		'name'=>'Chiềng Chung',
+		'type'=>'Xã',
+		'location'=>'21 12 22N, 103 52 54E',
+		'district_id'=>'125'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'04132',
+		'name'=>'Chiềng Mai',
+		'type'=>'Xã',
+		'location'=>'21 12 24N, 103 59 32E',
+		'district_id'=>'125'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'04135',
+		'name'=>'Hát Lót',
+		'type'=>'Xã',
+		'location'=>'21 10 43N, 104 04 09E',
+		'district_id'=>'125'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'04136',
+		'name'=>'Nà Bó',
+		'type'=>'Xã',
+		'location'=>'',
+		'district_id'=>'125'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'04138',
+		'name'=>'Cò Nòi',
+		'type'=>'Xã',
+		'location'=>'21 08 06N, 104 09 49E',
+		'district_id'=>'125'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'04141',
+		'name'=>'Chiềng Nơi',
+		'type'=>'Xã',
+		'location'=>'21 11 11N, 103 46 56E',
+		'district_id'=>'125'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'04144',
+		'name'=>'Phiêng Cằm',
+		'type'=>'Xã',
+		'location'=>'21 06 16N, 103 52 50E',
+		'district_id'=>'125'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'04147',
+		'name'=>'Chiềng Dong',
+		'type'=>'Xã',
+		'location'=>'21 10 14N, 103 56 25E',
+		'district_id'=>'125'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'04150',
+		'name'=>'Chiềng Kheo',
+		'type'=>'Xã',
+		'location'=>'21 09 13N, 103 58 50E',
+		'district_id'=>'125'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'04153',
+		'name'=>'Chiềng Ve',
+		'type'=>'Xã',
+		'location'=>'21 08 45N, 104 01 31E',
+		'district_id'=>'125'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'04156',
+		'name'=>'Chiềng Lương',
+		'type'=>'Xã',
+		'location'=>'21 04 56N, 104 07 17E',
+		'district_id'=>'125'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'04159',
+		'name'=>'Phiêng Pằn',
+		'type'=>'Xã',
+		'location'=>'21 01 59N, 104 04 00E',
+		'district_id'=>'125'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'04162',
+		'name'=>'Nà Ơt',
+		'type'=>'Xã',
+		'location'=>'21 04 05N, 103 58 28E',
+		'district_id'=>'125'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'04165',
+		'name'=>'Tà Hộc',
+		'type'=>'Xã',
+		'location'=>'21 14 47N, 104 13 07E',
+		'district_id'=>'125'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'04168',
+		'name'=>'Sông Mã',
+		'type'=>'Thị Trấn',
+		'location'=>'21 03 09N, 103 45 16E',
+		'district_id'=>'126'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'04171',
+		'name'=>'Bó Sinh',
+		'type'=>'Xã',
+		'location'=>'21 17 02N, 103 28 49E',
+		'district_id'=>'126'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'04174',
+		'name'=>'Pú Pẩu',
+		'type'=>'Xã',
+		'location'=>'21 15 18N, 103 27 03E',
+		'district_id'=>'126'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'04177',
+		'name'=>'Chiềng Phung',
+		'type'=>'Xã',
+		'location'=>'21 15 56N, 103 36 17E',
+		'district_id'=>'126'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'04180',
+		'name'=>'Chiềng En',
+		'type'=>'Xã',
+		'location'=>'21 11 56N, 103 29 46E',
+		'district_id'=>'126'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'04183',
+		'name'=>'Mường Lầm',
+		'type'=>'Xã',
+		'location'=>'21 11 33N, 103 34 00E',
+		'district_id'=>'126'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'04186',
+		'name'=>'Nậm Ty',
+		'type'=>'Xã',
+		'location'=>'21 12 00N, 103 40 33E',
+		'district_id'=>'126'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'04189',
+		'name'=>'Đứa Mòn',
+		'type'=>'Xã',
+		'location'=>'21 06 45N, 103 28 20E',
+		'district_id'=>'126'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'04192',
+		'name'=>'Yên Hưng',
+		'type'=>'Xã',
+		'location'=>'21 07 56N, 103 33 29E',
+		'district_id'=>'126'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'04195',
+		'name'=>'Chiềng Sơ',
+		'type'=>'Xã',
+		'location'=>'21 07 30N, 103 38 48E',
+		'district_id'=>'126'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'04198',
+		'name'=>'Nà Ngựu',
+		'type'=>'Xã',
+		'location'=>'21 05 20N, 103 44 01E',
+		'district_id'=>'126'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'04201',
+		'name'=>'Nậm Mằn',
+		'type'=>'Xã',
+		'location'=>'23 03 41N, 103 35 11E',
+		'district_id'=>'126'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'04204',
+		'name'=>'Chiềng Khoong',
+		'type'=>'Xã',
+		'location'=>'21 00 43N, 103 48 07E',
+		'district_id'=>'126'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'04207',
+		'name'=>'Chiềng Cang',
+		'type'=>'Xã',
+		'location'=>'20 59 56N, 103 53 28E',
+		'district_id'=>'126'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'04210',
+		'name'=>'Huổi Một',
+		'type'=>'Xã',
+		'location'=>'21 00 38N, 103 39 42E',
+		'district_id'=>'126'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'04213',
+		'name'=>'Mường Sai',
+		'type'=>'Xã',
+		'location'=>'20 59 06N, 104 00 35E',
+		'district_id'=>'126'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'04216',
+		'name'=>'Mường Cai',
+		'type'=>'Xã',
+		'location'=>'20 54 42N, 103 44 11E',
+		'district_id'=>'126'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'04219',
+		'name'=>'Mường Hung',
+		'type'=>'Xã',
+		'location'=>'20 55 11N, 103 50 51E',
+		'district_id'=>'126'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'04222',
+		'name'=>'Chiềng Khương',
+		'type'=>'Xã',
+		'location'=>'20 56 07N, 103 58 35E',
+		'district_id'=>'126'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'04225',
+		'name'=>'Sam Kha',
+		'type'=>'Xã',
+		'location'=>'21 03 31N, 103 22 17E',
+		'district_id'=>'127'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'04228',
+		'name'=>'Púng Bánh',
+		'type'=>'Xã',
+		'location'=>'20 59 49N, 103 29 10E',
+		'district_id'=>'127'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'04231',
+		'name'=>'Xốp Cộp',
+		'type'=>'Xã',
+		'location'=>'20 57 21N, 103 37 09E',
+		'district_id'=>'127'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'04234',
+		'name'=>'Dồm Cang',
+		'type'=>'Xã',
+		'location'=>'20 57 36N, 103 34 09E',
+		'district_id'=>'127'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'04237',
+		'name'=>'Nậm Lạnh',
+		'type'=>'Xã',
+		'location'=>'20 51 42N, 103 30 46E',
+		'district_id'=>'127'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'04240',
+		'name'=>'Mường Lèo',
+		'type'=>'Xã',
+		'location'=>'20 53 55N, 103 20 11E',
+		'district_id'=>'127'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'04243',
+		'name'=>'Mường Và',
+		'type'=>'Xã',
+		'location'=>'20 50 41N, 103 36 27E',
+		'district_id'=>'127'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'04246',
+		'name'=>'Mường Lạn',
+		'type'=>'Xã',
+		'location'=>'20 45 40N, 103 42 15E',
+		'district_id'=>'127'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'04249',
+		'name'=>'Yên Thịnh',
+		'type'=>'Phường',
+		'location'=>'21 43 59N, 104 55 31E',
+		'district_id'=>'132'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'04252',
+		'name'=>'Yên Ninh',
+		'type'=>'Phường',
+		'location'=>'21 42 54N, 104 53 52E',
+		'district_id'=>'132'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'04255',
+		'name'=>'Minh Tân',
+		'type'=>'Phường',
+		'location'=>'21 43 26N, 104 53 50E',
+		'district_id'=>'132'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'04258',
+		'name'=>'Nguyễn Thái Học',
+		'type'=>'Phường',
+		'location'=>'21 42 42N, 104 52 35E',
+		'district_id'=>'132'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'04261',
+		'name'=>'Đồng Tâm',
+		'type'=>'Phường',
+		'location'=>'21 43 16N, 104 54 49E',
+		'district_id'=>'132'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'04264',
+		'name'=>'Nguyễn Phúc',
+		'type'=>'Phường',
+		'location'=>'21 42 32N, 104 52 03E',
+		'district_id'=>'132'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'04267',
+		'name'=>'Hồng Hà',
+		'type'=>'Phường',
+		'location'=>'21 42 06N, 104 52 28E',
+		'district_id'=>'132'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'04270',
+		'name'=>'Minh Bảo',
+		'type'=>'Xã',
+		'location'=>'21 45 44N, 104 54 19E',
+		'district_id'=>'132'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'04273',
+		'name'=>'Nam Cường',
+		'type'=>'Xã',
+		'location'=>'21 43 40N, 104 52 25E',
+		'district_id'=>'132'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'04276',
+		'name'=>'Tuy Lộc',
+		'type'=>'Xã',
+		'location'=>'21 43 32N, 104 51 03E',
+		'district_id'=>'132'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'04279',
+		'name'=>'Tân Thịnh',
+		'type'=>'Xã',
+		'location'=>'21 42 45N, 104 56 05E',
+		'district_id'=>'132'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'04282',
+		'name'=>'Pú Trạng',
+		'type'=>'Phường',
+		'location'=>'21 36 06N, 104 29 21E',
+		'district_id'=>'133'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'04285',
+		'name'=>'Trung Tâm',
+		'type'=>'Phường',
+		'location'=>'21 36 13N, 104 30 38E',
+		'district_id'=>'133'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'04288',
+		'name'=>'Tân An',
+		'type'=>'Phường',
+		'location'=>'21 35 30N, 104 30 19E',
+		'district_id'=>'133'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'04291',
+		'name'=>'Cầu Thia',
+		'type'=>'Phường',
+		'location'=>'21 35 15N, 104 31 02E',
+		'district_id'=>'133'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'04294',
+		'name'=>'Nghĩa Lợi',
+		'type'=>'Xã',
+		'location'=>'21 36 45N, 104 30 44E',
+		'district_id'=>'133'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'04297',
+		'name'=>'Nghĩa Phúc',
+		'type'=>'Xã',
+		'location'=>'21 37 13N, 104 29 39E',
+		'district_id'=>'133'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'04300',
+		'name'=>'Nghĩa An',
+		'type'=>'Xã',
+		'location'=>'21 34 52N, 104 29 00E',
+		'district_id'=>'133'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'04303',
+		'name'=>'Yên Thế',
+		'type'=>'Thị Trấn',
+		'location'=>'22 05 55N, 104 45 52E',
+		'district_id'=>'135'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'04306',
+		'name'=>'Tân Phượng',
+		'type'=>'Xã',
+		'location'=>'22 15 20N, 104 37 12E',
+		'district_id'=>'135'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'04309',
+		'name'=>'Lâm Thượng',
+		'type'=>'Xã',
+		'location'=>'22 13 05N, 104 40 36E',
+		'district_id'=>'135'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'04312',
+		'name'=>'Khánh Thiện',
+		'type'=>'Xã',
+		'location'=>'22 14 03N, 104 42 04E',
+		'district_id'=>'135'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'04315',
+		'name'=>'Minh Chuẩn',
+		'type'=>'Xã',
+		'location'=>'22 10 48N, 104 38 09E',
+		'district_id'=>'135'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'04318',
+		'name'=>'Mai Sơn',
+		'type'=>'Xã',
+		'location'=>'12 10 47N, 104 43 14E',
+		'district_id'=>'135'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'04321',
+		'name'=>'Khai Trung',
+		'type'=>'Xã',
+		'location'=>'22 10 39N, 104 40 20E',
+		'district_id'=>'135'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'04324',
+		'name'=>'Mường Lai',
+		'type'=>'Xã',
+		'location'=>'22 08 57N, 104 49 10E',
+		'district_id'=>'135'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'04327',
+		'name'=>'An Lạc',
+		'type'=>'Xã',
+		'location'=>'22 08 38N, 104 36 47E',
+		'district_id'=>'135'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'04330',
+		'name'=>'Minh Xuân',
+		'type'=>'Xã',
+		'location'=>'22 09 01N, 104 46 29E',
+		'district_id'=>'135'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'04333',
+		'name'=>'Tô Mậu',
+		'type'=>'Xã',
+		'location'=>'22 08 13N, 104 39 42E',
+		'district_id'=>'135'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'04336',
+		'name'=>'Tân Lĩnh',
+		'type'=>'Xã',
+		'location'=>'22 07 35N, 104 43 11E',
+		'district_id'=>'135'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'04339',
+		'name'=>'Yên Thắng',
+		'type'=>'Xã',
+		'location'=>'22 06 40N, 104 44 50E',
+		'district_id'=>'135'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'04342',
+		'name'=>'Khánh Hoà',
+		'type'=>'Xã',
+		'location'=>'22 05 02N, 104 36 54E',
+		'district_id'=>'135'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'04345',
+		'name'=>'Vĩnh Lạc',
+		'type'=>'Xã',
+		'location'=>'22 05 50N, 104 50 53E',
+		'district_id'=>'135'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'04348',
+		'name'=>'Liễu Đô',
+		'type'=>'Xã',
+		'location'=>'22 04 57N, 104 48 08E',
+		'district_id'=>'135'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'04351',
+		'name'=>'Động Quan',
+		'type'=>'Xã',
+		'location'=>'22 04 47N, 104 41 13E',
+		'district_id'=>'135'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'04354',
+		'name'=>'Tân Lập',
+		'type'=>'Xã',
+		'location'=>'22 03 09N, 104 45 21E',
+		'district_id'=>'135'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'04357',
+		'name'=>'Minh Tiến',
+		'type'=>'Xã',
+		'location'=>'22 02 57N, 104 50 17E',
+		'district_id'=>'135'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'04360',
+		'name'=>'Trúc Lâu',
+		'type'=>'Xã',
+		'location'=>'22 02 46N, 104 38 37E',
+		'district_id'=>'135'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'04363',
+		'name'=>'Phúc Lợi',
+		'type'=>'Xã',
+		'location'=>'22 00 38N, 104 41 59E',
+		'district_id'=>'135'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'04366',
+		'name'=>'Phan Thanh',
+		'type'=>'Xã',
+		'location'=>'21 59 26N, 104 47 52E',
+		'district_id'=>'135'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'04369',
+		'name'=>'An Phú',
+		'type'=>'Xã',
+		'location'=>'21 58 58N, 104 50 09E',
+		'district_id'=>'135'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'04372',
+		'name'=>'Trung Tâm',
+		'type'=>'Xã',
+		'location'=>'21 58 19N, 104 45 06E',
+		'district_id'=>'135'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'04375',
+		'name'=>'Mậu A',
+		'type'=>'Thị Trấn',
+		'location'=>'21 52 41N, 104 41 44E',
+		'district_id'=>'136'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'04378',
+		'name'=>'Lang Thíp',
+		'type'=>'Xã',
+		'location'=>'22 08 39N, 104 26 01E',
+		'district_id'=>'136'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'04381',
+		'name'=>'Lâm Giang',
+		'type'=>'Xã',
+		'location'=>'22 04 47N, 104 31 16E',
+		'district_id'=>'136'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'04384',
+		'name'=>'Châu Quế Thượng',
+		'type'=>'Xã',
+		'location'=>'22 02 54N, 104 25 10E',
+		'district_id'=>'136'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'04387',
+		'name'=>'Châu Quế Hạ',
+		'type'=>'Xã',
+		'location'=>'22 05 35N, 104 29 14E',
+		'district_id'=>'136'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'04390',
+		'name'=>'An Bình',
+		'type'=>'Xã',
+		'location'=>'22 00 23N, 104 34 29E',
+		'district_id'=>'136'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'04393',
+		'name'=>'Quang Minh',
+		'type'=>'Xã',
+		'location'=>'21 58 49N, 104 37 56E',
+		'district_id'=>'136'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'04396',
+		'name'=>'Đông An',
+		'type'=>'Xã',
+		'location'=>'21 57 41N, 104 33 27E',
+		'district_id'=>'136'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'04399',
+		'name'=>'Đông Cuông',
+		'type'=>'Xã',
+		'location'=>'21 57 06N, 104 36 43E',
+		'district_id'=>'136'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'04402',
+		'name'=>'Phong Dụ Hạ',
+		'type'=>'Xã',
+		'location'=>'21 55 39N, 104 27 21E',
+		'district_id'=>'136'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'04405',
+		'name'=>'Mậu Đông',
+		'type'=>'Xã',
+		'location'=>'21 55 31N, 104 39 46E',
+		'district_id'=>'136'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'04408',
+		'name'=>'Ngòi A',
+		'type'=>'Xã',
+		'location'=>'21 15 09N, 104 42 30E',
+		'district_id'=>'136'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'04411',
+		'name'=>'Xuân Tầm',
+		'type'=>'Xã',
+		'location'=>'21 52 52N, 104 31 06E',
+		'district_id'=>'136'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'04414',
+		'name'=>'Tân Hợp',
+		'type'=>'Xã',
+		'location'=>'21 53 14N, 104 35 09E',
+		'district_id'=>'136'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'04417',
+		'name'=>'An Thịnh',
+		'type'=>'Xã',
+		'location'=>'21 52 32N, 104 38 36E',
+		'district_id'=>'136'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'04420',
+		'name'=>'Yên Thái',
+		'type'=>'Xã',
+		'location'=>'21 53 17N, 104 45 01E',
+		'district_id'=>'136'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'04423',
+		'name'=>'Phong Dụ Thượng',
+		'type'=>'Xã',
+		'location'=>'21 49 27N, 104 25 39E',
+		'district_id'=>'136'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'04426',
+		'name'=>'Yên Hợp',
+		'type'=>'Xã',
+		'location'=>'21 50 57N, 104 41 59E',
+		'district_id'=>'136'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'04429',
+		'name'=>'Đại Sơn',
+		'type'=>'Xã',
+		'location'=>'21 49 17N, 104 34 35E',
+		'district_id'=>'136'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'04432',
+		'name'=>'Yên Hưng',
+		'type'=>'Xã',
+		'location'=>'21 51 08N, 104 44 40E',
+		'district_id'=>'136'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'04435',
+		'name'=>'Đại Phác',
+		'type'=>'Xã',
+		'location'=>'21 50 06N, 104 38 43E',
+		'district_id'=>'136'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'04438',
+		'name'=>'Yên Phú',
+		'type'=>'Xã',
+		'location'=>'21 50 16N, 104 40 22E',
+		'district_id'=>'136'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'04441',
+		'name'=>'Xuân Ái',
+		'type'=>'Xã',
+		'location'=>'21 49 10N, 104 43 08E',
+		'district_id'=>'136'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'04444',
+		'name'=>'Hoàng Thắng',
+		'type'=>'Xã',
+		'location'=>'21 47 32N, 104 44 11E',
+		'district_id'=>'136'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'04447',
+		'name'=>'Viễn Sơn',
+		'type'=>'Xã',
+		'location'=>'21 46 20N, 104 41 00E',
+		'district_id'=>'136'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'04450',
+		'name'=>'Mỏ Vàng',
+		'type'=>'Xã',
+		'location'=>'21 44 07N, 104 38 40E',
+		'district_id'=>'136'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'04453',
+		'name'=>'Nà Hẩu',
+		'type'=>'Xã',
+		'location'=>'21 45 47N, 104 33 40E',
+		'district_id'=>'136'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'04456',
+		'name'=>'Mù Cang Chải',
+		'type'=>'Thị Trấn',
+		'location'=>'21 50 49N, 104 05 30E',
+		'district_id'=>'137'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'04459',
+		'name'=>'Hồ Bốn',
+		'type'=>'Xã',
+		'location'=>'21 54 33N, 103 56 22E',
+		'district_id'=>'137'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'04462',
+		'name'=>'Nậm Có',
+		'type'=>'Xã',
+		'location'=>'21 51 35N, 104 18 17E',
+		'district_id'=>'137'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'04465',
+		'name'=>'Khao Mang',
+		'type'=>'Xã',
+		'location'=>'21 53 54N, 104 00 08E',
+		'district_id'=>'137'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'04468',
+		'name'=>'Mồ Dề',
+		'type'=>'Xã',
+		'location'=>'21 52 22N, 104 06 28E',
+		'district_id'=>'137'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'04471',
+		'name'=>'Chế Cu Nha',
+		'type'=>'Xã',
+		'location'=>'21 50 58N, 104 09 34E',
+		'district_id'=>'137'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'04474',
+		'name'=>'Lao Chải',
+		'type'=>'Xã',
+		'location'=>'21 49 04N, 103 59 49E',
+		'district_id'=>'137'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'04477',
+		'name'=>'Kim Nọi',
+		'type'=>'Xã',
+		'location'=>'21 49 29N, 104 04 45E',
+		'district_id'=>'137'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'04480',
+		'name'=>'Cao Phạ',
+		'type'=>'Xã',
+		'location'=>'21 46 54N, 104 14 32E',
+		'district_id'=>'137'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'04483',
+		'name'=>'La Pán Tẩn',
+		'type'=>'Xã',
+		'location'=>'21 48 05N, 104 10 39E',
+		'district_id'=>'137'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'04486',
+		'name'=>'Dế Xu Phình',
+		'type'=>'Xã',
+		'location'=>'21 46 44N, 104 07 40E',
+		'district_id'=>'137'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'04489',
+		'name'=>'Chế Tạo',
+		'type'=>'Xã',
+		'location'=>'21 42 29N, 104 01 35E',
+		'district_id'=>'137'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'04492',
+		'name'=>'Púng Luông',
+		'type'=>'Xã',
+		'location'=>'21 44 38N, 104 11 35E',
+		'district_id'=>'137'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'04495',
+		'name'=>'Nậm Khắt',
+		'type'=>'Xã',
+		'location'=>'21 41 22N, 104 14 12E',
+		'district_id'=>'137'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'04498',
+		'name'=>'Cổ Phúc',
+		'type'=>'Thị Trấn',
+		'location'=>'21 45 50N, 104 49 14E',
+		'district_id'=>'138'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'04501',
+		'name'=>'Tân Đồng',
+		'type'=>'Xã',
+		'location'=>'21 51 05N, 104 47 46E',
+		'district_id'=>'138'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'04504',
+		'name'=>'Báo Đáp',
+		'type'=>'Xã',
+		'location'=>'21 49 25N, 104 45 59E',
+		'district_id'=>'138'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'04507',
+		'name'=>'Đào Thịnh',
+		'type'=>'Xã',
+		'location'=>'21 48 37N, 104 48 09E',
+		'district_id'=>'138'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'04510',
+		'name'=>'Việt Thành',
+		'type'=>'Xã',
+		'location'=>'21 47 33N, 104 48 55E',
+		'district_id'=>'138'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'04513',
+		'name'=>'Hòa Cuông',
+		'type'=>'Xã',
+		'location'=>'21 47 46N, 104 50 44E',
+		'district_id'=>'138'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'04516',
+		'name'=>'Minh Quán',
+		'type'=>'Xã',
+		'location'=>'21 46 48N, 104 51 30E',
+		'district_id'=>'138'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'04519',
+		'name'=>'Quy Mông',
+		'type'=>'Xã',
+		'location'=>'21 46 16N, 104 46 44E',
+		'district_id'=>'138'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'04522',
+		'name'=>'Cường Thịnh',
+		'type'=>'Xã',
+		'location'=>'21 45 28N, 104 52 29E',
+		'district_id'=>'138'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'04525',
+		'name'=>'Kiên Thành',
+		'type'=>'Xã',
+		'location'=>'21 42 55N, 104 43 47E',
+		'district_id'=>'138'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'04528',
+		'name'=>'Nga Quán',
+		'type'=>'Xã',
+		'location'=>'21 44 49N, 104 50 37E',
+		'district_id'=>'138'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'04531',
+		'name'=>'Y Can',
+		'type'=>'Xã',
+		'location'=>'21 43 04N, 104 47 35E',
+		'district_id'=>'138'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'04534',
+		'name'=>'Minh Tiến',
+		'type'=>'Xã',
+		'location'=>'21 43 36N, 104 49 33E',
+		'district_id'=>'138'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'04537',
+		'name'=>'Lương Thịnh',
+		'type'=>'Xã',
+		'location'=>'21 39 58N, 104 46 17E',
+		'district_id'=>'138'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'04540',
+		'name'=>'Âu Lâu',
+		'type'=>'Xã',
+		'location'=>'21 41 31N, 104 50 31E',
+		'district_id'=>'132'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'04543',
+		'name'=>'Giới Phiên',
+		'type'=>'Xã',
+		'location'=>'21 41 43N, 104 53 25E',
+		'district_id'=>'132'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'04546',
+		'name'=>'Hợp Minh',
+		'type'=>'Xã',
+		'location'=>'21 41 02N, 104 51 52E',
+		'district_id'=>'132'
+		] );
+					
+		Ward::create( [
+		'ward_id'=>'04549',
+		'name'=>'Văn Tiến',
+		'type'=>'Xã',
+		'location'=>'21 40 39N, 104 56 11E',
+		'district_id'=>'132'
+		] );
+
+
+		//----------------------
     }
 }
