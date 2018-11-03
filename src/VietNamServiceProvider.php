@@ -3,6 +3,7 @@
 namespace NguyenManh1997\VietNam;
 
 use Illuminate\Support\ServiceProvider;
+use NguyenManh1997\VietNam\Commands\VietNamDatabaseInstall;
 
 class VietNamServiceProvider extends ServiceProvider
 {
@@ -25,6 +26,13 @@ class VietNamServiceProvider extends ServiceProvider
         $this->publishes([
             __DIR__.'/database/seeds/' => database_path('seeds')
         ], 'seeds');
+
+                //commands
+        if ($this->app->runningInConsole()) {
+            $this->commands([
+                VietNamDatabaseInstall::class,
+            ]);
+        }
     }
 
     /**
