@@ -8,6 +8,9 @@
             "email": "nguyenmanh0397@gmail.com"
         }
     ],
+    "license": "MIT",
+    "require": {},
+    "require-dev": {},
     "config": {
         "sort-packages": true
     },
@@ -32,6 +35,5 @@
         }
     },
     "minimum-stability": "dev",
-    "prefer-stable": true,
-    "require": {}
+    "prefer-stable": true
 }
