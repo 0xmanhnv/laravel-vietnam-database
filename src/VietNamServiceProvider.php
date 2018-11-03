@@ -1,6 +1,6 @@
 <?php
 
-namespace NguyenManh\VietNam;
+namespace NguyenManh1997\VietNam;
 
 use Illuminate\Support\ServiceProvider;
 

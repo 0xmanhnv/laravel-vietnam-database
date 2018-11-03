@@ -1,5 +1,5 @@
 {
-    "name": "nguyenmanh/vietnam",
+    "name": "nguyenmanh1997/vietnam",
     "description": "database Viet Nam",
     "type": "library",
     "authors": [
@@ -17,18 +17,18 @@
         },
         "laravel": {
           "providers": [
-            "NguyenManh\\VietNam\\VietNamServiceProvider"
+            "NguyenManh1997\\VietNam\\VietNamServiceProvider"
           ]
         }
     },
     "autoload": {
         "psr-4": {
-            "NguyenManh\\VietNam\\": "src"
+            "NguyenManh1997\\VietNam\\": "src"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "NguyenManh\\VietNam\\": "tests"
+            "NguyenManh1997\\VietNam\\": "tests"
         }
     },
     "minimum-stability": "dev",
