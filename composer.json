@@ -1,0 +1,12 @@
+{
+    "name": "nguyenmanh/vietnam",
+    "description": "database Viet Nam",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Nguyen Manh",
+            "email": "nguyenmanh0397@gmail.com"
+        }
+    ],
+    "require": {}
+}
