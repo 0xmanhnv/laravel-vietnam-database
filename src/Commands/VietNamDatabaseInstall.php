@@ -42,6 +42,7 @@ class VietNamDatabaseInstall extends Command
             Artisan::call('vendor:publish',['--tag' => 'migrations']);
             Artisan::call('vendor:publish',['--tag' => 'seeds']);
             Artisan::call('migrate');
+            exec('composer dump-autoload'); 
             Artisan::call('db:seed', ['--class' => 'DistrictsTable']);
             Artisan::call('db:seed', ['--class' => 'ProvincesTable']);
             Artisan::call('db:seed', ['--class' => 'WardsTable']);
