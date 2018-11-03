@@ -2,17 +2,34 @@
     "name": "nguyenmanh1997/vietnam",
     "description": "database Viet Nam",
     "type": "library",
+    "keywords": [
+        "NguyenManh",
+        "VietNam"
+    ],
+    "homepage": "https://github.com/nguyenmanh1997",
+    "license": "MIT",
     "authors": [
         {
             "name": "Nguyen Manh",
             "email": "nguyenmanh0397@gmail.com"
         }
     ],
-    "license": "MIT",
     "require": {},
     "require-dev": {},
-    "config": {
-        "sort-packages": true
+    "autoload": {
+        "psr-4": {
+            "NguyenManh1997\\VietNam\\": "src"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "NguyenManh1997\\VietNam\\": "tests"
+        }
+    },
+    "scripts": {
+        "test": "phpunit",
+        "check-style": "phpcs -p --standard=PSR2 --runtime-set ignore_errors_on_exit 1 --runtime-set ignore_warnings_on_exit 1 src tests",
+        "fix-style": "phpcbf -p --standard=PSR2 --runtime-set ignore_errors_on_exit 1 --runtime-set ignore_warnings_on_exit 1 src tests"
     },
     "extra": {
         "branch-alias": {
@@ -24,15 +41,8 @@
           ]
         }
     },
-    "autoload": {
-        "psr-4": {
-            "NguyenManh1997\\VietNam\\": "src"
-        }
-    },
-    "autoload-dev": {
-        "psr-4": {
-            "NguyenManh1997\\VietNam\\": "tests"
-        }
+    "config": {
+        "sort-packages": true
     },
     "minimum-stability": "dev",
     "prefer-stable": true
