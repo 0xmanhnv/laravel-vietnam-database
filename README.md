@@ -11,7 +11,7 @@ $ composer require nguyenmanh1997/vietnam
 Method 1: Run
 
 ``` bash
-$ php artisan productcrud:install
+$ php artisan vietnam:install
 ```
 
 Method 2:
