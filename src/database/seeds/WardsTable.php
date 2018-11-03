@@ -1,7 +1,7 @@
 <?php
 
 use Illuminate\Database\Seeder;
-use App\Ward;
+use NguyenManh1997\VietNam\Models\Ward;
 
 class WardsTable extends Seeder
 {

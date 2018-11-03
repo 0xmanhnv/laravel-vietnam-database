@@ -1,14 +1,3 @@
-Admin template
-
-[![Latest Version on Packagist][ico-version]][link-packagist]
-[![Software License][ico-license]](LICENSE.md)
-[![Build Status][ico-travis]][link-travis]
-[![Coverage Status][ico-scrutinizer]][link-scrutinizer]
-[![Quality Score][ico-code-quality]][link-code-quality]
-[![Total Downloads][ico-downloads]][link-downloads]
-
-
-
 ## Install
 
 Via Composer
@@ -30,6 +19,7 @@ Method 2:
 1. In configs/app.php file, add the following to the providers array (optional in version >= 5.5)
 ``` php
 NguyenManh1997\VietNam\VietNamServiceProvider::class,
+```
 
 
 2. Run commands to publish the package’s config and assets and database
