@@ -26,6 +26,7 @@ NguyenManh1997\VietNam\VietNamServiceProvider::class,
 ``` bash
 $ php artisan vendor:publish
 $ php artisan migrate
+$ composer dump-autoload
 $ php artisan db:seed --class=DistrictsTable
 $ php artisan db:seed --class=ProvincesTable
 $ php artisan db:seed --class=WardsTable
