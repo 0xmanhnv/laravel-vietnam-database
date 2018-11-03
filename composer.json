@@ -8,5 +8,30 @@
             "email": "nguyenmanh0397@gmail.com"
         }
     ],
+    "config": {
+        "sort-packages": true
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "1.0-dev"
+        },
+        "laravel": {
+          "providers": [
+            "NguyenManh\\VietNam\\VietNamServiceProvider"
+          ]
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "NguyenManh\\VietNam\\": "src"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "NguyenManh\\VietNam\\": "tests"
+        }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true,
     "require": {}
 }
