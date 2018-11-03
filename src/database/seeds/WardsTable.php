@@ -28903,9 +28903,11 @@ class WardsTable extends Seeder
 			Ward::create( ['ward_id'=>'20446','name'=>'A Tiêng','type'=>'Xã','location'=>'15 53 57N, 107 28 53E','district_id'=>'504'] );
 			Ward::create( ['ward_id'=>'20449','name'=>'Lăng','type'=>'Xã','location'=>'15 49 12N, 107 27 45E','district_id'=>'504'] );
 			Ward::create( ['ward_id'=>'20452','name'=>'A Xan','type'=>'Xã','location'=>'15 49 20N, 107 18 43E','district_id'=>'504'] );
-			Ward::create( ['ward_id'=>'20455','name'=>'Tr','type'=>'hy','location'=>'Xã','district_id'=>'15 48 37N, 107 21 50E',=>'504'] );
+			
+			Ward::create( ['ward_id'=>'20455','name'=>'Tr','type'=>'hy','location'=>'Xã','district_id'=>'15 48 37N, 107 21 50E','district_id'=>'504'] );
+
 			Ward::create( ['ward_id'=>'20458','name'=>'Dang','type'=>'Xã','location'=>'15 49 38N, 107 33 35E','district_id'=>'504'] );
-			Ward::create( ['ward_id'=>'20461','name'=>'Ch','type'=>'ơm','location'=>'Xã','district_id'=>'15 48 41N, 107 15 13E',=>'504'] );
+			Ward::create( ['ward_id'=>'20461','name'=>'Ch','type'=>'ơm','location'=>'Xã','district_id'=>'15 48 41N, 107 15 13E','district_id'=>'504'] );
 			Ward::create( ['ward_id'=>'20464','name'=>'Ga Ri','type'=>'Xã','location'=>'15 46 02N, 107 15 48E','district_id'=>'504'] );
 			Ward::create( ['ward_id'=>'20467','name'=>'P Rao','type'=>'Thị Trấn','location'=>'15 55 41N, 107 38 50E','district_id'=>'505'] );
 			Ward::create( ['ward_id'=>'20470','name'=>'Tà Lu','type'=>'Xã','location'=>'15 57 42N, 107 40 21E','district_id'=>'505'] );
