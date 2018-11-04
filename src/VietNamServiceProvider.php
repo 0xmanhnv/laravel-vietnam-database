@@ -15,8 +15,6 @@ class VietNamServiceProvider extends ServiceProvider
     public function boot()
     {
         $package_name = 'vietnam';
-        // include routes
-        $this->loadRoutesFrom(__DIR__ . '/routes/web.php');
         //migrations
         $this->loadMigrationsFrom(__DIR__ . '/database/migrations/');
         $this->publishes([
