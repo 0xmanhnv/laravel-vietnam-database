@@ -16,7 +16,7 @@ class VietNamServiceProvider extends ServiceProvider
     {
         $package_name = "vietnam_database";
         // include routes
-        $this->loadRoutesFrom(__DIR__.'/routes/web.php');
+        //$this->loadRoutesFrom(__DIR__.'/routes/web.php');
 
         //migrations
         $this->loadMigrationsFrom(__DIR__ . '/database/migrations/');
