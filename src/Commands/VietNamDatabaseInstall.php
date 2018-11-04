@@ -1,6 +1,6 @@
 <?php
 
-namespace NguyenManh1997\VietNam\Commands;
+namespace NguyenManh1997\LaravelVietNamDatabase\Commands;
 
 use Illuminate\Console\Command;
 use Artisan;

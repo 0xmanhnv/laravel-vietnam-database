@@ -1,7 +1,7 @@
 <?php
 
 use Illuminate\Database\Seeder;
-use NguyenManh1997\VietNam\Models\District;
+use NguyenManh1997\LaravelVietNamDatabase\Models\District;
 
 class DistrictsTable extends Seeder
 {

@@ -3,7 +3,7 @@
 Via Composer
 
 ``` bash
-$ composer require nguyenmanh1997/vietnam
+$ composer require nguyenmanh1997/laravel-vietnam-database
 ```
 
 ## Usage

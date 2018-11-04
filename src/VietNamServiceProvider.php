@@ -1,9 +1,9 @@
 <?php
 
-namespace NguyenManh1997\VietNam;
+namespace NguyenManh1997\LaravelVietNamDatabase;
 
 use Illuminate\Support\ServiceProvider;
-use NguyenManh1997\VietNam\Commands\VietNamDatabaseInstall;
+use NguyenManh1997\LaravelVietNamDatabase\Commands\VietNamDatabaseInstall;
 
 class VietNamServiceProvider extends ServiceProvider
 {

@@ -1,7 +1,7 @@
 <?php
 
 use Illuminate\Database\Seeder;
-use NguyenManh1997\VietNam\Models\Ward;
+use NguyenManh1997\LaravelVietNamDatabase\Models\Ward;
 
 class WardsTable extends Seeder
 {

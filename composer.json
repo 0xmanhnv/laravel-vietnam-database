@@ -1,5 +1,5 @@
 {
-    "name": "nguyenmanh1997/vietnam",
+    "name": "nguyenmanh1997/laravel-vietnam-database",
     "description": "database Viet Nam",
     "type": "library",
     "keywords": [
@@ -18,12 +18,12 @@
     "require-dev": {},
     "autoload": {
         "psr-4": {
-            "NguyenManh1997\\VietNam\\": "src"
+            "NguyenManh1997\\LaravelVietNamDatabase\\": "src"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "NguyenManh1997\\VietNam\\": "tests"
+            "NguyenManh1997\\LaravelVietNamDatabase\\": "tests"
         }
     },
     "scripts": {
@@ -33,11 +33,11 @@
     },
     "extra": {
         "branch-alias": {
-            "dev-master": "1.0-dev"
+            "dev-master": "1.1-dev"
         },
         "laravel": {
           "providers": [
-            "NguyenManh1997\\VietNam\\VietNamServiceProvider"
+            "NguyenManh1997\\LaravelVietNamDatabase\\VietNamServiceProvider"
           ]
         }
     },
