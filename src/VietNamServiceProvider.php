@@ -14,20 +14,20 @@ class VietNamServiceProvider extends ServiceProvider
      */
     public function boot()
     {
-        $package_name = "vietnam";
+        $package_name = 'vietnam';
         // include routes
-        $this->loadRoutesFrom(__DIR__.'/routes/web.php');
+        $this->loadRoutesFrom(__DIR__ . '/routes/web.php');
         //migrations
-        $this->loadMigrationsFrom(__DIR__.'/database/migrations/');
+        $this->loadMigrationsFrom(__DIR__ . '/database/migrations/');
         $this->publishes([
-            __DIR__.'/database/migrations/' => database_path('migrations')
+            __DIR__ . '/database/migrations/' => database_path('migrations'),
         ], 'migrations');
         // database seeder
         $this->publishes([
-            __DIR__.'/database/seeds/' => database_path('seeds')
+            __DIR__ . '/database/seeds/' => database_path('seeds'),
         ], 'seeds');
 
-                //commands
+        //commands
         if ($this->app->runningInConsole()) {
             $this->commands([
                 VietNamDatabaseInstall::class,
