@@ -15,7 +15,9 @@
         }
     ],
     "require": {},
-    "require-dev": {},
+    "require-dev": {
+        "friendsofphp/php-cs-fixer": "^2.8"
+    },
     "autoload": {
         "psr-4": {
             "NguyenManh1997\\LaravelVietNamDatabase\\": "src"
@@ -29,7 +31,10 @@
     "scripts": {
         "test": "phpunit",
         "check-style": "phpcs -p --standard=PSR2 --runtime-set ignore_errors_on_exit 1 --runtime-set ignore_warnings_on_exit 1 src tests",
-        "fix-style": "phpcbf -p --standard=PSR2 --runtime-set ignore_errors_on_exit 1 --runtime-set ignore_warnings_on_exit 1 src tests"
+        "fix-style": "phpcbf -p --standard=PSR2 --runtime-set ignore_errors_on_exit 1 --runtime-set ignore_warnings_on_exit 1 src tests",
+        "format": [
+            "vendor/bin/php-cs-fixer fix"
+        ]
     },
     "extra": {
         "branch-alias": {
