@@ -2,8 +2,8 @@
 
 namespace NguyenManh1997\LaravelVietNamDatabase\Commands;
 
-use Illuminate\Console\Command;
 use Artisan;
+use Illuminate\Console\Command;
 
 class VietNamDatabaseInstall extends Command
 {
@@ -39,20 +39,22 @@ class VietNamDatabaseInstall extends Command
     public function handle()
     {
         if ($this->confirm('Do you want to install it?', false)) {
-            Artisan::call('vendor:publish',['--tag' => 'migrations']);
-            Artisan::call('vendor:publish',['--tag' => 'seeds']);
+            Artisan::call('vendor:publish', ['--tag' => 'migrations']);
+            Artisan::call('vendor:publish', ['--tag' => 'seeds']);
             Artisan::call('migrate');
-            exec('composer dump-autoload'); 
+
+            exec('composer dump-autoload');
+
             Artisan::call('db:seed', ['--class' => 'DistrictsTable']);
             Artisan::call('db:seed', ['--class' => 'ProvincesTable']);
             Artisan::call('db:seed', ['--class' => 'WardsTable']);
+
             $this->displayOutput();
         }
     }
 
     protected function displayOutput()
     {
-        
         $message = [
             "* =========================================================",
             "*",
@@ -83,6 +85,7 @@ class VietNamDatabaseInstall extends Command
             "*",
             "* =========================================================="
         ];
+
         $this->line($message);
     }
 }
